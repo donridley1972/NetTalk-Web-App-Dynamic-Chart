@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# Clarion 2.1.0.2447
+Project("{12B76EC0-1D7B-4FA7-A7D0-C524288B48A1}") = "web46", "web46.cwproj", "{55318EDF-5103-4A89-AE8A-BE36E766E0A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{{2150E333-8FDC-42A3-9474-1A3956D46DE8}}"
+	ProjectSection(SolutionItems) = postProject
+		web46.app = web46.app
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55318EDF-5103-4A89-AE8A-BE36E766E0A5}.Debug|Win32.Build.0 = Debug|Win32
+		{55318EDF-5103-4A89-AE8A-BE36E766E0A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55318EDF-5103-4A89-AE8A-BE36E766E0A5}.Release|Win32.Build.0 = Release|Win32
+		{55318EDF-5103-4A89-AE8A-BE36E766E0A5}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+EndGlobal

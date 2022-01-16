@@ -1,0 +1,113 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{55318EDF-5103-4A89-AE8A-BE36E766E0A5}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Win32</Platform>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>web46</AssemblyName>
+    <OutputName>web36</OutputName>
+    <DefineConstants>_NT10_=&gt;1%3b_NT11_=&gt;1%3b_NT12_=&gt;1%3b_NT_=&gt;1%3bNETTALKLOG=&gt;1%3bStringTheoryLinkMode=&gt;1%3bStringTheoryDllMode=&gt;0%3bMD5=&gt;0%3bjFilesLinkMode=&gt;1%3bjFilesDllMode=&gt;0%3b_JFILES_=&gt;1%3b_ABCDllMode_=&gt;0%3b_ABCLinkMode_=&gt;1%3b_NetTalkDllMode_=&gt;0%3b_NetTalkLinkMode_=&gt;1%3b_ODDJOB_=&gt;0</DefineConstants>
+    <Model>Dll</Model>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <vid>full</vid>
+    <check_stack>True</check_stack>
+    <check_index>True</check_index>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <vid>off</vid>
+    <check_stack>False</check_stack>
+    <check_index>False</check_index>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="web46.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46001.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46003.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46004.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46005.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46006.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46007.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46008.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46009.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46010.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46011.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46012.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46013.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="WEB46_BC.CLW">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46_BC0.CLW">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="web46_nw.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <None Include="caroot.pem">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Generated>True</Generated>
+      <ProjectGenerated>True</ProjectGenerated>
+    </None>
+    <None Include="dh2048.pem">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Generated>True</Generated>
+      <ProjectGenerated>True</ProjectGenerated>
+    </None>
+    <None Include="libcrypto-1_1.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Generated>True</Generated>
+      <ProjectGenerated>True</ProjectGenerated>
+    </None>
+    <None Include="libssl-1_1.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Generated>True</Generated>
+      <ProjectGenerated>True</ProjectGenerated>
+    </None>
+    <None Include="OpenSSL.Exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Generated>True</Generated>
+      <ProjectGenerated>True</ProjectGenerated>
+    </None>
+    <None Include="zlibwapi.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Generated>True</Generated>
+      <ProjectGenerated>True</ProjectGenerated>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FileDriver Include="DOS" />
+    <FileDriver Include="TOPSPEED" />
+    <Library Include="clanet.lib" />
+    <Library Include="web36.exe.manifest" />
+  </ItemGroup>
+  <Import Project="$(ClarionBinPath)\SoftVelocity.Build.Clarion.targets" />
+</Project>
