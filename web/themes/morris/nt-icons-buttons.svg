@@ -1,0 +1,1626 @@
+<svg  xmlns="http://www.w3.org/2000/svg" transform="scale(1,1) translate(0,0)"  width="512" height="480">
+	<style>
+		.colors{
+			--white:#FFFFFF;
+			--green:#54b87c;
+			--blue:#507cc9;
+			--red:#c45466;
+			--nav:#507cc9;
+			--icon-color:#555555;
+			--icon-shade:#999999;
+			--icon-contrast:#FFFFFF;
+			--icon-warning:#f0af2d;
+			--icon-error:#c45466;
+			--transparent:transparent;
+		}
+	</style>
+	
+	<!-- caret-1-n 32x32 -->
+	<g transform="translate(0,0)" class="colors">
+		<line x1="4" y1="23" x2="18" y2="11" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="28" y1="23" x2="14" y2="11" style="stroke:var(--icon-color);stroke-width:6" />
+	</g>
+
+	<!-- caret-1-ne 32x32 -->
+	<g transform="translate(32,0)" class="colors">
+		<line x1="4" y1="9" x2="28" y2="9" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="25" y1="9" x2="25" y2="28" style="stroke:var(--icon-color);stroke-width:6" />
+	</g>
+	
+	<!-- caret-1-e 32x32 -->
+	<g transform="translate(64,0)"  class="colors">
+		<line x1="9" y1="4" x2="21" y2="18" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="9" y1="28" x2="21" y2="14" style="stroke:var(--icon-color);stroke-width:6" />
+	</g>
+	
+	<!-- caret-1-se 32x32 0 padding-->
+	<g transform="translate(96,0)" class="colors">
+		<line x1="4" y1="24" x2="28" y2="24" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="25" y1="4" x2="25" y2="24" style="stroke:var(--icon-color);stroke-width:6" />
+	</g>
+	
+	<!-- caret-1-s 32x32 -->
+	<g transform="translate(128,0)"  class="colors">
+		<line x1="4" y1="9" x2="18" y2="21" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="28" y1="9" x2="14" y2="21" style="stroke:var(--icon-color);stroke-width:6" />
+	</g>
+	
+	<!-- caret-1-sw 32x32 -->
+	<g transform="translate(160,0)" class="colors">
+		<line x1="4" y1="24" x2="28" y2="24" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="7" y1="4" x2="7" y2="24" style="stroke:var(--icon-color);stroke-width:6" />
+	</g>
+	
+	<!-- caret-1-w 32x32 -->
+	<g transform="translate(192,0) "  class="colors">
+		<line x1="23" y1="4" x2="11" y2="18" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="23" y1="28" x2="11" y2="14" style="stroke:var(--icon-color);stroke-width:6" />
+	</g>
+	
+	<!-- caret-1-nw 32x32 -->
+	<g transform="translate(224,0)" class="colors">
+		<line x1="4" y1="8" x2="28" y2="8" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="7" y1="8" x2="7" y2="28" style="stroke:var(--icon-color);stroke-width:6" />
+	</g>
+
+	<!-- caret-2-n-s 32x32 -->
+	<g transform="translate(256,0)" class="colors">
+		<line x1="4" y1="13" x2="18" y2="3" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="14" y1="3" x2="28" y2="13" style="stroke:var(--icon-color);stroke-width:6" />
+
+		<line x1="4" y1="19" x2="18" y2="29" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="14" y1="29" x2="28" y2="19" style="stroke:var(--icon-color);stroke-width:6" />
+	
+	</g>
+	
+	<!-- caret-2-e-w 32x32 -->
+	<g transform="translate(288,0)" class="colors">
+		<line x1="3" y1="18" x2="13" y2="4" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="3" y1="14" x2="13" y2="28" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="29" y1="18" x2="19" y2="4" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="29" y1="14" x2="19" y2="28" style="stroke:var(--icon-color);stroke-width:6" />	
+	</g>
+
+	<!-- chevron-2-n 32x32 -->
+	<g transform="translate(320,0)" class="colors">
+		<line x1="4" y1="16" x2="18" y2="4" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="28" y1="16" x2="14" y2="4" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="4" y1="28" x2="18" y2="16" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="28" y1="28" x2="14" y2="16" style="stroke:var(--icon-color);stroke-width:6" />
+	
+	</g>
+	<!-- chevron-2-e 32x32 -->
+	<g transform="translate(352,0)" class="colors">
+		<line x1="4" y1="4" x2="16" y2="18" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="4" y1="28" x2="16" y2="14" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="16" y1="4" x2="28" y2="18" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="16" y1="28" x2="28" y2="14" style="stroke:var(--icon-color);stroke-width:6" />
+	
+	</g>
+	<!-- chevron-2-s 32x32 -->
+	<g transform="translate(384,0)" class="colors">
+		<line x1="4" y1="4" x2="18" y2="16" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="28" y1="4" x2="14" y2="16" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="4" y1="16" x2="18" y2="28" style="stroke:var(--icon-color);stroke-width:6" />
+		<line x1="28" y1="16" x2="14" y2="28" style="stroke:var(--icon-color);stroke-width:6" />
+	
+	</g>
+	<!-- chevron-2-w 32x32 -->
+	<g transform="translate(416,0)" class="colors">
+		<line x1="16" y1="4" x2="4" y2="18" style="stroke:var(--icon-color);stroke-width:6;" />
+		<line x1="16" y1="28" x2="4" y2="14" style="stroke:var(--icon-color);stroke-width:6;" />
+		<line x1="28" y1="4" x2="16" y2="18" style="stroke:var(--icon-color);stroke-width:6;" />
+		<line x1="28" y1="28" x2="16" y2="14" style="stroke:var(--icon-color);stroke-width:6;" />
+	</g>
+	
+	
+<!-- -->	
+	
+	<!-- triangle-1-n 32x32 -->
+	<g transform="translate(0,32)" class="colors">
+		<polygon points="4,24 16,8 28,24" style="fill:var(--icon-color);" />
+	</g>
+	<!-- triangle-1-ne 32x32 -->
+	<g transform="translate(32,32)" class="colors">
+		<polygon points="4,8 24,8 24,28" style="fill:var(--icon-color);" />
+	</g>
+	<!-- triangle-1-e 32x32 -->
+	<g transform="translate(64,32)" class="colors">
+		<polygon points="8,4 24,16 8,28" style="fill:var(--icon-color);" />
+	</g>
+	<!-- triangle-1-se 32x32 -->
+	<g transform="translate(96,32)" class="colors">
+		<polygon points="4,24 24,24 24,4" style="fill:var(--icon-color);" />
+	</g>
+	<!-- triangle-1-s 32x32 -->
+	<g transform="translate(128,32)" class="colors">
+		<polygon points="4,8 16,24 28,8" style="fill:var(--icon-color);" />
+	</g>
+	<!-- triangle-1-sw 32x32 -->
+	<g transform="translate(160,32)" class="colors">
+		<polygon points="8,4 8,24 28,24" style="fill:var(--icon-color);" />
+	</g>
+	<!-- triangle-1-w 32x32 -->
+	<g transform="translate(192,32)" class="colors">
+		<polygon points="8,16 24,4 24,28" style="fill:var(--icon-color);" />
+	</g>
+	<!-- triangle-1-nw 32x32 -->
+	<g transform="translate(224,32)" class="colors">
+		<polygon points="8,8 8,28 28,8" style="fill:var(--icon-color);" />
+	</g>
+	
+	<!-- triangle-2-n-s 32x32 -->
+	<g transform="translate(256,32)" class="colors">
+		<polygon points="4,14 16,2 28,14" style="fill:var(--icon-color);" />
+		<polygon points="4,18 16,30 28,18" style="fill:var(--icon-color);" />
+	</g>
+	
+	<!-- triangle-2-e-w 32x32 -->
+	<g transform="translate(288,32)" class="colors">
+		<polygon points="18,4 30,16 18,28" style="fill:var(--icon-color);" />
+		<polygon points="2,16 14,4 14,28" style="fill:var(--icon-color);" />
+	</g>
+
+<!-- -->	
+	
+	<!-- arrow-1-n 32x32 -->
+	<g transform="translate(0,64)" class="colors">
+		<line x1="16" y1="4" x2="16" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="6" y1="14" x2="17" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="14" x2="15" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	<!-- arrow-1-ne 32x32 -->
+	<g transform="translate(32,64)" class="colors">
+		<line x1="4" y1="28" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="12" y1="4" x2="29" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="4" x2="28" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	<!-- arrow-1-e 32x32 -->
+	<g transform="translate(64,64)" class="colors">
+		<line x1="4" y1="16" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:3" />		
+		<line x1="18" y1="6" x2="28" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="18" y1="26" x2="28" y2="15" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	<!-- arrow-1-se 32x32 -->
+	<g transform="translate(96,64)" class="colors">
+		<line x1="4" y1="4" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="12" x2="28" y2="29" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="12" y1="28" x2="29" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	<!-- arrow-1-s 32x32 -->
+	<g transform="translate(128,64)" class="colors">
+		<line x1="16" y1="4" x2="16" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="6" y1="18" x2="17" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="18" x2="15" y2="28" style="stroke:var(--icon-color);stroke-width:3" />		
+	</g>	
+	<!-- arrow-1-sw 32x32 -->
+	<g transform="translate(160,64)" class="colors">
+		<line x1="4" y1="28" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="12" x2="4" y2="29" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="3" y1="28" x2="20" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	<!-- arrow-1-w 32x32 -->
+	<g transform="translate(192,64)" class="colors">
+		<line x1="4" y1="16" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:3" />			
+		<line x1="14" y1="6" x2="4" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="14" y1="26" x2="4" y2="15" style="stroke:var(--icon-color);stroke-width:3" />		
+	</g>	
+	<!-- arrow-1-nw 32x32 -->
+	<g transform="translate(224,64)" class="colors">
+		<line x1="4" y1="4" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:3" />		
+		<line x1="4" y1="3" x2="4" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="3" y1="4" x2="20" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	<!-- arrow-2-n-s 32x32 -->
+	<g transform="translate(256,64)" class="colors">
+		<line x1="16" y1="3" x2="16" y2="29" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="6" y1="14" x2="17" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="14" x2="15" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="6" y1="18" x2="17" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="18" x2="15" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		
+	</g>	
+	<!-- arrow-2-ne-sw 32x32 -->
+	<g transform="translate(288,64)" class="colors">
+		<line x1="4" y1="28" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="12" y1="4" x2="29" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="3" x2="28" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="12" x2="4" y2="29" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="3" y1="28" x2="20" y2="28" style="stroke:var(--icon-color);stroke-width:3" />		
+		
+	</g>	
+	<!-- arrow-2-e-w 32x32 -->
+	<g transform="translate(320,64)" class="colors">
+		<line x1="3" y1="16" x2="29" y2="16" style="stroke:var(--icon-color);stroke-width:3" />			
+		<line x1="14" y1="6" x2="4" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="14" y1="26" x2="4" y2="15" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="18" y1="6" x2="28" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="18" y1="26" x2="28" y2="15" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	<!-- arrow-2-se-nw 32x32 -->
+	<g transform="translate(352,64)" class="colors">
+		<line x1="4" y1="4" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="12" x2="28" y2="29" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="12" y1="28" x2="29" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="3" x2="4" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="3" y1="4" x2="20" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+
+	</g>	
+	<!-- arrowstop-1-n 32x32 -->
+	<g transform="translate(384,64)" class="colors">
+		<line x1="4" y1="4" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="8" x2="16" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="6" y1="18" x2="17" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="18" x2="15" y2="8" style="stroke:var(--icon-color);stroke-width:3" />		
+	</g>	
+	<!-- arrowstop-1-e 32x32 -->
+	<g transform="translate(416,64)" class="colors">
+		<line x1="4" y1="16" x2="24" y2="16" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="14" y1="6" x2="24" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="14" y1="26" x2="24" y2="15" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="4" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:3" />		
+	</g>	
+	<!-- arrowstop-1-s 32x32 -->
+	<g transform="translate(448,64)" class="colors">
+		<line x1="16" y1="4" x2="16" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="6" y1="14" x2="17" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="14" x2="15" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="28" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:3" />		
+	</g>	
+	<!-- arrowstop-1-w 32x32 -->
+	<g transform="translate(480,64)" class="colors">
+		<line x1="8" y1="16" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="18" y1="6" x2="8" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="18" y1="26" x2="8" y2="15" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="4" x2="4" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	
+
+<!-- -->
+
+	<!-- arrowthick-1-n 32x32 -->
+	<g transform="translate(0,96)" class="colors">
+		<line x1="16" y1="4" x2="16" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="6" y1="14" x2="17" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="26" y1="14" x2="15" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>	
+	<!-- arrowthick-1-ne 32x32 -->
+	<g transform="translate(32,96)" class="colors">
+		<line x1="4" y1="28" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="12" y1="4" x2="29" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="28" y1="3" x2="28" y2="20" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>	
+	<!-- arrowthick-1-e 32x32 -->
+	<g transform="translate(64,96)" class="colors">
+		<line x1="4" y1="16" x2="28" y2="16" style="stroke:var(--nav);stroke-width:4" />		
+		<line x1="18" y1="6" x2="28" y2="17" style="stroke:var(--nav);stroke-width:4" />
+		<line x1="18" y1="26" x2="28" y2="15" style="stroke:var(--nav);stroke-width:4" />
+	</g>	
+	<!-- arrowthick-1-se 32x32 -->
+	<g transform="translate(96,96)" class="colors">
+		<line x1="4" y1="4" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="28" y1="12" x2="28" y2="29" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="12" y1="28" x2="29" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>	
+	<!-- arrowthick-1-s 32x32 -->
+	<g transform="translate(128,96)" class="colors">
+		<line x1="16" y1="4" x2="16" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="6" y1="18" x2="17" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="26" y1="18" x2="15" y2="28" style="stroke:var(--icon-color);stroke-width:4" />		
+	</g>	
+	<!-- arrowthick-1-sw 32x32 -->
+	<g transform="translate(160,96)" class="colors">
+		<line x1="4" y1="28" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="4" y1="12" x2="4" y2="29" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="3" y1="28" x2="20" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>	
+	<!-- arrowthick-1-w 32x32 -->
+	<g transform="translate(192,96)" class="colors">
+		<line x1="4" y1="16" x2="28" y2="16" style="stroke:var(--nav);stroke-width:4" />			
+		<line x1="14" y1="6" x2="4" y2="17" style="stroke:var(--nav);stroke-width:4" />
+		<line x1="14" y1="26" x2="4" y2="15" style="stroke:var(--nav);stroke-width:4" />		
+	</g>	
+	<!-- arrowthick-1-nw 32x32 -->
+	<g transform="translate(224,96)" class="colors">
+		<line x1="4" y1="4" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:4" />		
+		<line x1="4" y1="3" x2="4" y2="20" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="4" y1="4" x2="20" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>	
+	<!-- arrowthick-2-n-s 32x32 -->
+	<g transform="translate(256,96)" class="colors">
+		<line x1="16" y1="7" x2="16" y2="25" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="6" y1="14" x2="17" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="26" y1="14" x2="15" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="6" y1="18" x2="17" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="26" y1="18" x2="15" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		
+	</g>	
+	<!-- arrowthick-2-ne-sw 32x32 -->
+	<g transform="translate(288,96)" class="colors">
+		<line x1="4" y1="28" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="12" y1="4" x2="29" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="28" y1="3" x2="28" y2="20" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="4" y1="12" x2="4" y2="29" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="3" y1="28" x2="20" y2="28" style="stroke:var(--icon-color);stroke-width:4" />		
+		
+	</g>	
+	<!-- arrowthick-2-e-w 32x32 -->
+	<g transform="translate(320,96)" class="colors">
+		<line x1="3" y1="16" x2="29" y2="16" style="stroke:var(--blue);stroke-width:4" />			
+		<line x1="14" y1="6" x2="4" y2="17" style="stroke:var(--blue);stroke-width:4" />
+		<line x1="14" y1="26" x2="4" y2="15" style="stroke:var(--blue);stroke-width:4" />
+		<line x1="18" y1="6" x2="28" y2="17" style="stroke:var(--blue);stroke-width:4" />
+		<line x1="18" y1="26" x2="28" y2="15" style="stroke:var(--blue);stroke-width:4" />
+	</g>	
+	<!-- arrowthick-2-se-nw 32x32 -->
+	<g transform="translate(352,96)" class="colors">
+		<line x1="4" y1="4" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="28" y1="12" x2="28" y2="29" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="12" y1="28" x2="29" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="4" y1="3" x2="4" y2="20" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="3" y1="4" x2="20" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+
+	</g>	
+	<!-- arrowthickstop-1-n 32x32 -->
+	<g transform="translate(384,96)" class="colors">
+		<line x1="4" y1="4" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="16" y1="8" x2="16" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="6" y1="18" x2="17" y2="8" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="26" y1="18" x2="15" y2="8" style="stroke:var(--icon-color);stroke-width:4" />		
+	</g>	
+	<!-- arrowthickstop-1-e 32x32 -->
+	<g transform="translate(416,96)" class="colors">
+		<line x1="4" y1="16" x2="24" y2="16" style="stroke:var(--nav);stroke-width:4" />
+		<line x1="14" y1="6" x2="24" y2="17" style="stroke:var(--nav);stroke-width:4" />
+		<line x1="14" y1="26" x2="24" y2="15" style="stroke:var(--nav);stroke-width:4" />
+		<line x1="28" y1="4" x2="28" y2="28" style="stroke:var(--nav);stroke-width:4" />		
+	</g>	
+	<!-- arrowthickstop-1-s 32x32 -->
+	<g transform="translate(448,96)" class="colors">
+		<line x1="16" y1="4" x2="16" y2="24" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="6" y1="14" x2="17" y2="24" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="26" y1="14" x2="15" y2="24" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="4" y1="28" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:4" />		
+	</g>	
+	<!-- arrowthickstop-1-w 32x32 -->
+	<g transform="translate(480,96)" class="colors">
+		<line x1="8" y1="16" x2="28" y2="16" style="stroke:var(--nav);stroke-width:4" />
+		<line x1="18" y1="6" x2="8" y2="17" style="stroke:var(--nav);stroke-width:4" />
+		<line x1="18" y1="26" x2="8" y2="15" style="stroke:var(--nav);stroke-width:4" />
+		<line x1="4" y1="4" x2="4" y2="28" style="stroke:var(--nav);stroke-width:4" />
+	</g>
+
+<!-- -->
+	<!-- arrowreturnthick-1-w 32x32 -->
+	<g transform="translate(0,128)" class="colors">
+		<path stroke="var(--blue)" fill="var(--transparent)" stroke-width="4" d=" M 16 10 A 6 6 0 0 1 16 22"  /> 
+		<line x1="8" y1="10" x2="16" y2="10" style="stroke:var(--blue);stroke-width:4" />
+		<polygon points="10,4 4,10 10,16" style="fill:var(--blue);" />
+	
+	</g>	
+	<!-- arrowreturnthick-1-n 32x32 -->
+	<g transform="translate(32,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="4" d=" M 22 16 A 6 6 0 0 1 10 16"  /> 
+		<line x1="22" y1="10" x2="22" y2="16" style="stroke:var(--icon-color);stroke-width:4" />
+		<polygon points="16,10 22,4 28,10" style="fill:var(--icon-color);" />
+	</g>
+	<!-- arrowreturnthick-1-e 32x32 -->
+	<g transform="translate(64,128)" class="colors">
+		<path stroke="var(--green)" fill="var(--transparent)" stroke-width="4" d=" M 16 22 A 6 6 0 0 1 16 10"  /> 
+		<line x1="16" y1="22" x2="22" y2="22" style="stroke:var(--green);stroke-width:4" />
+		<polygon points="22,16 28,22 22,28" style="fill:var(--green);" />
+	</g>
+	<!-- arrowreturnthick-1-s 32x32 -->
+	<g transform="translate(96,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="4" d=" M 10 16 A 6 6 0 0 1 22 16"  /> 
+		<line x1="22" y1="16" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:4" />
+		<polygon points="16,22 22,28 28,22" style="fill:var(--icon-color);" />
+	</g>
+
+	<!-- arrowreturn-1-w 32x32 -->
+	<g transform="translate(128,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 16 10 A 6 6 0 0 1 16 22"  /> 
+		<line x1="8" y1="10" x2="16" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<polygon points="10,4 4,10 10,16" style="fill:var(--icon-color);" />
+	
+	</g>
+	<!-- arrowreturn-1-n 32x32 -->
+	<g transform="translate(160,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 22 16 A 6 6 0 0 1 10 16"  /> 
+		<line x1="22" y1="10" x2="22" y2="16" style="stroke:var(--icon-color);stroke-width:3" />
+		<polygon points="16,10 22,4 28,10" style="fill:var(--icon-color);" />
+	
+	</g>
+	<!-- arrowreturn-1-e 32x32 -->
+	<g transform="translate(192,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 16 22 A 6 6 0 0 1 16 10"  /> 
+		<line x1="16" y1="22" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<polygon points="22,16 28,22 22,28" style="fill:var(--icon-color);" />
+	
+	</g>
+	<!-- arrowreturn-1-s 32x32 -->
+	<g transform="translate(224,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 10 16 A 6 6 0 0 1 22 16"  /> 
+		<line x1="22" y1="16" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<polygon points="16,22 22,28 28,22" style="fill:var(--icon-color);" />	
+	</g>
+
+	<!-- arrowrefresh-1-w 32x32 -->
+	<g transform="translate(256,128)" class="colors">
+		<path stroke="var(--blue)" fill="var(--transparent)" stroke-width="3"  d=" M 9 16 A 7 7 0 1 1 16 23" /> 
+		<polygon points="16,18 8,24 16,28" style="fill:var(--blue);" />
+		
+	</g>
+	
+	<!-- arrowrefresh-1-n 32x32 -->
+	<g transform="translate(288,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3"  d=" M 16 9 A 7 7 0 1 1 9 16" /> 
+		<polygon points="3,16 9,8 15,16" style="fill:var(--icon-color);" />
+	</g>
+	
+	<!-- arrowrefresh-1-e 32x32 -->
+	<g transform="translate(320,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3"  d=" M 23 16 A 7 7 0 1 1 16 9" /> 
+		<polygon points="16,3 24,9 16,15" style="fill:var(--icon-color);" />
+	</g>
+	
+	<!-- arrowrefresh-1-s 32x32 -->
+	<g transform="translate(352,128)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3"  d=" M 16 23 A 7 7 0 1 1 23 16"  /> 
+		<polygon points="17,16 23,24 29,16" style="fill:var(--icon-color);" />
+	</g>
+
+	
+	<!-- back-w 32x32 -->
+	<g transform="translate(384,128)" class="colors">
+		<path id="path1" transform="translate(2,6) scale(0.875,0.875)  " fill="var(--blue)" 
+		d="M10.100006,0L10.100006,5.4000015C30.400024,5.4000015 32,18.800003 32,21.5 27.600006,10.800003 10.100006,16.100006 10.100006,16.100006L10.100006,21.5 0,11.400002z" />	
+	</g>
+
+<!-- -->
+	<!-- arrow-4 32x32 -->
+	<g transform="translate(0,160)" class="colors">	
+		<line x1="2" y1="16" x2="30" y2="16" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="2" x2="16" y2="30" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="3" y1="16" x2="8" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="3" y1="16" x2="8" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="29" y1="16" x2="24" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="29" y1="16" x2="24" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="3" x2="22" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="3" x2="10" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="29" x2="22" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="29" x2="10" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+		
+	<!-- arrow-4-diag 32x32 -->
+	<g transform="translate(32,160)" class="colors">	
+		<line x1="4" y1="4" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="4" x2="4" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="3" y1="4" x2="12" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="3" x2="4" y2="12" style="stroke:var(--icon-color);stroke-width:3" />		
+		<line x1="3" y1="28" x2="12" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="29" x2="4" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="29" y1="4" x2="20" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="3" x2="28" y2="12" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="29" y1="28" x2="20" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="29" x2="28" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	
+	<!-- extlink 32x32 -->
+	<g transform="translate(64,160)" class="colors">	
+		<line x1="14" y1="18" x2="26" y2="6" style="stroke:var(--icon-color);stroke-width:3" />	
+		<line x1="27" y1="6" x2="18" y2="6" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="5" x2="26" y2="14" style="stroke:var(--icon-color);stroke-width:3" />
+		
+		<line x1="5" y1="10" x2="14" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="6" y1="9" x2="6" y2="27" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="5" y1="26" x2="23" y2="26" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="22" y1="27" x2="22" y2="18" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- newwin 32x32 -->
+	<g transform="translate(96,160)" class="colors">	
+		<line x1="3" y1="12" x2="10" y2="12" style="stroke:var(--icon-color);stroke-width:3" />	
+		<line x1="4" y1="11" x2="4" y2="27" style="stroke:var(--icon-color);stroke-width:3" />	
+		<line x1="3" y1="26" x2="20" y2="26" style="stroke:var(--icon-color);stroke-width:3" />	
+		
+		<line x1="14" y1="6" x2="28" y2="6" style="stroke:var(--icon-color);stroke-width:5" />	
+		<line x1="14" y1="4" x2="14" y2="21" style="stroke:var(--icon-color);stroke-width:3" />
+		
+		<line x1="13" y1="20" x2="28" y2="20" style="stroke:var(--icon-color);stroke-width:3" />	
+		<line x1="27" y1="4" x2="27" y2="20" style="stroke:var(--icon-color);stroke-width:3" />	
+	
+	</g>
+	<!-- refresh 32x32 -->
+	<g transform="translate(128,160)" class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 16 8 A 8 8 0 0 1 23 21" /> 
+		<polygon points="16,2 12,8 16,14" style="fill:var(--icon-color);" />
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 16 24 A 8 8 0 0 1 9 11" /> 
+		<polygon points="16,18 20,24 16,30" style="fill:var(--icon-color);" />
+	</g>
+	<!-- shuffle 32x32 -->
+	<g transform="translate(160,160)" class="colors">	
+	
+		<polygon points="22,4 28,8 22,12" style="fill:var(--icon-color);" />
+		<polygon points="22,20 28,24 22,28" style="fill:var(--icon-color);" />
+
+		<line x1="4" y1="24" x2="11" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="10" y1="24" x2="18" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="17" y1="8" x2="22" y2="8" style="stroke:var(--icon-color);stroke-width:3" />		
+		
+		<line x1="4" y1="8" x2="11" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="10" y1="8" x2="18" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="17" y1="24" x2="22" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+	
+	</g>
+	<!-- transfer-e-w 32x32 -->
+	<g transform="translate(192,160)" class="colors">	
+		<line x1="14" y1="15" x2="29" y2="15" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="15" x2="20" y2="7" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="15" x2="20" y2="23" style="stroke:var(--icon-color);stroke-width:3" />		
+		
+		<line x1="3" y1="19" x2="18" y2="19" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="19" x2="12" y2="27" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="19" x2="12" y2="11" style="stroke:var(--icon-color);stroke-width:3" />
+	
+	</g>
+	<!-- transferthick-e-w 32x32 -->
+	<g transform="translate(224,160)" class="colors">	
+		<line x1="14" y1="14" x2="30" y2="14" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="29" y1="14" x2="21" y2="6" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="29" y1="14" x2="21" y2="22" style="stroke:var(--icon-color);stroke-width:4" />		
+		
+		<line x1="2" y1="20" x2="18" y2="20" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="3" y1="20" x2="11" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="3" y1="20" x2="11" y2="12" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>
+	
+	
+
+
+<!-- -->
+	<!-- folder-collapsed 32x32 -->	
+	<g transform="translate(0,192)" class="colors">	
+		<path transform=" translate(4,6) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M0,0L13.973999,0 15.970001,4.7749913 32,4.7749913 31.940002,24.825 0,24.825z" />
+	
+	</g>
+	<!-- folder-open 32x32 -->	
+	<g transform="translate(32,192)" class="colors">	
+		<path transform=" translate(4,8) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M7.5160018,7.0210069L32,7.0210069 26.112001,21.280001 2.2460016,21.280001z M0,0L9.2969996,0 11.158,4.0930236 26.091997,4.0930236 26.087999,5.3469933 6.3500015,5.3469933 0.46300124,21.280001 0,21.280001z" />
+	
+	</g>
+	<!-- document 32x32 -->	
+	<g transform="translate(64,192)" class="colors">	
+		<path transform=" translate(7,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M4.8639972,24.853021L18.921001,24.853021 18.921001,26.106012 4.8639972,26.106012z M4.8639972,18.55202L18.921001,18.55202 18.921001,19.805011 4.8639972,19.805011z M4.8639972,12.250988L12.430004,12.250988 12.430004,13.504011 4.8639972,13.504011z M2.2830038,2.4180018L2.2830038,29.583005 22.122997,29.583005 22.122997,8.5029987 15.837002,8.5029987 15.837002,2.4180018z M0,0L15.837002,0 17.128993,0 22.683999,5.4390005 24.405999,7.125007 24.405999,32.000001 0,32.000001z" />
+	</g>
+	<!-- document-b 32x32 -->	
+	<g transform="translate(96,192)" class="colors">	
+	<path  transform="translate(6,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M11.580997,2.6999842L11.392,8.5849994C11.392,8.5849994,11.145998,12.474987,6.6629961,12.004986L2.8199925,11.905011 2.8199925,28.624997C2.8199925,28.999997,3.1369941,29.299985,3.5260017,29.299985L23.276998,29.299985C23.664998,29.299985,23.982,28.999997,23.982,28.624997L23.982,3.375003C23.982,3.000003,23.664998,2.6999842,23.276998,2.6999842z M11.397005,0L23.276998,0C25.225011,0,26.805,1.5099807,26.805,3.375003L26.805,28.624997C26.805,30.48999,25.225011,32.000001,23.276998,32.000001L3.5260017,32.000001C1.578995,32.000001,-9.8288183E-08,30.48999,0,28.624997L0,11.504985 1.3959962,10.095011 1.3970033,10.055003 8.7169974,2.6999842 8.6970084,2.6999842 6.7400072,4.6749924 8.7899954,2.5950037 8.8190024,2.5950037 8.8840048,2.5300013 8.8900015,2.5300013z" />
+	</g>
+	<!-- note 32x32 -->	
+	<g transform="translate(128,192)" class="colors">	
+		<path transform="translate(6,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M6.6999817,24.700012L21,24.700012 21,26.799988 6.6999817,26.799988z M6.6999817,19.600006L21,19.600006 21,21.700012 6.6999817,21.700012z M6.6999817,14.399994L21,14.399994 21,16.5 6.6999817,16.5z M17.5,3.5L17.5,9.7000122 24.199982,9.7000122z M3.3999939,3.3999939L3.3999939,28.700012 24.199982,28.700012 24.199982,11.799988 15.599976,11.799988 15.599976,3.3999939z M0,0L18.399994,0 27.5,9.1000061 27.5,32 0,32z" />
+	
+	</g>
+	<!-- mail-closed 32x32 -->	
+	<g transform="translate(160,192)" class="colors">	
+		<polygon points="4,12 4,28 20,28" style="fill:var(--icon-color);" />	
+		<polygon points="28,12 12,28 28,28" style="fill:var(--icon-color);" />	
+		<polygon points="4,8 16,20 28,8" style="fill:var(--icon-color);" />	
+	</g>
+	<!-- mail-open 32x32 -->	
+	<g transform="translate(192,192)" class="colors">	
+		<polygon points="4,14 4,28 20,28" style="fill:var(--icon-color);" />	
+		<polygon points="28,14 12,28 28,28" style="fill:var(--icon-color);" />	
+		<polygon points="4,12 16,4 28,12" style="fill:var(--icon-color);" />
+	</g>
+	<!-- suitcase 32x32 -->	
+	<g transform="translate(224,192)" class="colors">	
+		<line x1="10" y1="6" x2="22" y2="6" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="6" x2="10" y2="12" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="22" y1="6" x2="22" y2="12" style="stroke:var(--icon-color);stroke-width:2" />
+		<rect x="4" y="12" width="24" height="16" fill="var(--icon-color)" />
+		<line x1="10" y1="12" x2="10" y2="28" style="stroke:var(--icon-shade);stroke-width:2" />
+		<line x1="22" y1="12" x2="22" y2="28" style="stroke:var(--icon-shade);stroke-width:2" />
+
+	</g>
+	<!-- comment 32x32 -->	
+	<g transform="translate(256,192)" class="colors">	
+		<rect x="8" y="4" width="16" rx="2" rh="2" height="16" fill="var(--transparent)" style="stroke:var(--icon-color);stroke-width:3"/>
+		<polygon points="12,20 12,28 20,20" style="fill:var(--icon-color);" />
+	</g>
+	<!-- person 32x32 -->	
+	<g transform="translate(288,192)" class="colors">	
+		<circle cx="16" cy="10" r="6" stroke="var(--icon-color)" stroke-width="1" fill="var(--icon-color)"/>
+		<line x1="12" y1="24" x2="20" y2="24" style="stroke:var(--icon-color);stroke-width:2" />
+		<polygon points="4,26 12,18 16,26" style="fill:var(--icon-color);" />
+		<polygon points="28,26 20,18 16,26" style="fill:var(--icon-color);" />
+	</g>
+	<!-- print 32x32 -->	
+	<g transform="translate(320,192)" class="colors">	
+		<line x1="10" y1="4" x2="22" y2="4" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="4" x2="10" y2="18" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="22" y1="4" x2="22" y2="18" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="18" x2="22" y2="18" style="stroke:var(--icon-color);stroke-width:2" />
+
+		<line x1="12" y1="8" x2="20" y2="8" style="stroke:var(--icon-color);stroke-width:1" />
+		<line x1="12" y1="10" x2="20" y2="10" style="stroke:var(--icon-color);stroke-width:1" />
+		<line x1="12" y1="12" x2="20" y2="12" style="stroke:var(--icon-color);stroke-width:1" />
+		<line x1="12" y1="14" x2="20" y2="14" style="stroke:var(--icon-color);stroke-width:1" />
+		
+		<line x1="4" y1="20" x2="28" y2="20" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="4" y1="24" x2="28" y2="24" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="12" y1="28" x2="20" y2="28" style="stroke:var(--icon-color);stroke-width:2" />
+		
+	</g>
+	<!-- trash 32x32 -->	
+	<g transform="translate(352,192)" class="colors">
+		<rect x="12" y="1" rx="3" ry="3" width="8" height="4" fill="var(--red)" />
+		<line x1="4" y1="6" x2="28" y2="6" style="stroke:var(--red);stroke-width:4" />
+		<rect x="4" y="11" rx="3" ry="3" width="24" height="4" fill="var(--red)" />
+		<line x1="6" y1="12" x2="6" y2="28" style="stroke:var(--red);stroke-width:4" />
+		<line x1="26" y1="12" x2="26" y2="28" style="stroke:var(--red);stroke-width:4" />
+		<line x1="13" y1="14" x2="13" y2="28" style="stroke:var(--red);stroke-width:3" />
+		<line x1="19" y1="14" x2="19" y2="28" style="stroke:var(--red);stroke-width:3" />
+		<rect x="4" y="26" rx="3" ry="3" width="24" height="4" fill="var(--red)" />
+	</g>
+	<!-- locked 32x32 -->	
+	<g transform="translate(384,192)" class="colors">	
+		<path  stroke="var(--icon-warning)" fill="var(--transparent)" stroke-width="3"  d=" M 20 8 A 4 4 0 0 0 12 8" />
+		<line x1="12" y1="8" x2="12" y2="12" style="stroke:var(--icon-warning);stroke-width:3" />
+		<line x1="20" y1="8" x2="20" y2="12" style="stroke:var(--icon-warning);stroke-width:3" />
+		<rect x="8" y="12" rx="4" ry="4" width="16" height="16" fill="var(--icon-warning)" />
+		<line x1="16" y1="16" x2="16" y2="22" style="stroke:var(--icon-shade);stroke-width:3" />
+	</g>
+	<!-- unlocked 32x32 -->	
+	<g transform="translate(416,192)" class="colors">	
+		<path  stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3"   d=" M 16 8 A 4 4 0 0 0 8 8" />
+		<line x1="16" y1="8" x2="16" y2="12" style="stroke:var(--icon-color);stroke-width:3" />
+		<rect x="12" y="12" rx="4" ry="4" width="16" height="16" fill="var(--icon-color)" />
+		<line x1="20" y1="16" x2="20" y2="22" style="stroke:var(--icon-shade);stroke-width:3" />
+	</g>
+	<!-- bookmark 32x32 -->	
+	<g transform="translate(448,192)" class="colors">	
+		<path  stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3"  d=" M 20 8 A 4 4 0 0 0 12 8" />
+		<line x1="12" y1="8" x2="12" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="20" y1="8" x2="20" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="5" x2="16" y2="20" style="stroke:var(--icon-color);stroke-width:6" />
+		<polygon points="10,26 10,20 16,20" style="fill:var(--icon-color);" />
+		<polygon points="22,26 22,20 16,20" style="fill:var(--icon-color);" />
+	</g>
+	<!-- tag 32x32 -->	
+	<g transform="translate(480,192)" class="colors">	
+		<rect x="4" y="10" rx="2" ry="2" width="16" height="12" fill="var(--icon-color)" />
+		<rect x="6" y="12" rx="1" ry="1" width="6" height="8" fill="var(--icon-shade)" />
+		<circle cx="16" cy="16" r="1" stroke="var(--icon-shade)" stroke-width="1" fill="var(--icon-shade)"/>
+		<line x1="18" y1="12" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="18" y1="20" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+
+<!-- -->	
+	
+	<!-- home 32x32 -->	
+	<g transform="translate(0,224)" class="colors">	
+		<line x1="4" y1="16" x2="16" y2="4" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="16" y1="4" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:2" />
+	
+		<polygon points="8,16 16,8 24,16" style="fill:var(--icon-color);" />
+		<rect x="8" y="16" width="7" height="12" fill="var(--icon-color)" />
+		<rect x="17" y="16" width="7" height="12" fill="var(--icon-color)" />
+	</g>
+	<!-- flag 32x32 -->	
+	<g transform="translate(32,224)" class="colors">	
+		<path transform="translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M1.2999878,1.2000003C2,1.2000004,2.5999756,1.8000027,2.5999756,2.4999994L2.5999756,27.699997C2.5999756,28.399994 2,29 1.2999878,29 0.59997559,29 0,28.399994 0,27.699997L0,2.4999994C0,1.8000027,0.59997559,1.2000004,1.2999878,1.2000003z M11.599976,0C18.199982,-1.4682405E-07,23.699982,3.4999994,32,0.50000003L32,18.000002C20.899994,22,14.899994,14.299997,4.2999878,19.000002L4.2999878,1.6000018C7,0.40000134,9.2999878,-1.4682405E-07,11.599976,0z" />
+	
+	</g>
+	<!-- calculator 32x32 -->	
+	<g transform="translate(64,224)" class="colors">	
+		<rect x="6" y="4" rx="4" ry="4" width="20" height="24" fill="var(--icon-color)" />
+		<rect x="10" y="8" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		<rect x="14" y="8" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		<rect x="18" y="8" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+
+		<rect x="10" y="12" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		<rect x="14" y="12" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		<rect x="18" y="12" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+
+		<rect x="10" y="16" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		<rect x="14" y="16" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		<rect x="18" y="16" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+
+		<rect x="10" y="20" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		<rect x="14" y="20" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		<rect x="18" y="20" rx="1" ry="1" width="3" height="3" fill="var(--icon-shade)" />
+		
+	</g>
+	<!-- cart 32x32 -->	
+	<g transform="translate(96,224)" class="colors">	
+		<line x1="4" y1="4" x2="9" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="4" x2="12" y2="18" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="11" y1="18" x2="25" y2="18" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="18" x2="28" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<rect x="14" y="8" rx="1" ry="1" width="8" height="7" fill="var(--icon-color)" />
+		<circle cx="14" cy="24" r="2" stroke="var(--icon-color)" stroke-width="2" fill="var(--icon-color)"/>
+		<circle cx="24" cy="24" r="2" stroke="var(--icon-color)" stroke-width="2" fill="var(--icon-color)"/>
+	</g>
+	<!-- pencil 32x32 -->	
+	<g transform="translate(128,224)" class="colors">	
+		<line x1="5" y1="22" x2="21" y2="6" style="stroke:var(--blue);stroke-width:3" />
+		<line x1="8" y1="24" x2="24" y2="8" style="stroke:var(--blue);stroke-width:4" />
+		<line x1="10" y1="27" x2="27" y2="10" style="stroke:var(--blue);stroke-width:3" />
+		<line x1="20" y1="5" x2="27" y2="12" style="stroke:var(--blue);stroke-width:5" />
+		<line x1="18" y1="7" x2="25" y2="14" style="stroke:var(--icon-shade);stroke-width:2" />
+		<line x1="5" y1="19" x2="13" y2="27" style="stroke:var(--icon-shade);stroke-width:2" />
+		<polygon points="4,20 4,28 12,28" style="fill:var(--blue);" />
+	</g>
+	<!-- clock 32x32 -->
+	<g transform="translate(160,224)" class="colors">	
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="2" fill="var(--transparent)"/>
+		<line x1="16" y1="16" x2="16" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="16" x2="21" y2="21" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="16" x2="8" y2="16" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="24" y1="16" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="16" y1="4" x2="16" y2="8" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="16" y1="24" x2="16" y2="28" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+	<!-- disk 32x32 -->	
+	<g transform="translate(192,224)" class="colors">	
+		<rect x="4" y="4" rx="2" ry="2" width="24" height="24" fill="var(--icon-color)" />
+		<rect x="16" y="18" width="8" height="8" fill="var(--icon-shade)" />
+		<line x1="8" y1="10" x2="24" y2="10" style="stroke:var(--icon-shade);stroke-width:5" />
+		<line x1="12" y1="18" x2="12" y2="26" style="stroke:var(--icon-shade);stroke-width:3" />
+	</g>
+	<!-- calendar 32x32 -->	
+	<g transform="translate(224,224)" class="colors">	
+		<rect x="4" y="4" rx="2" ry="2" width="24" height="24" fill="var(--icon-color)" />
+		<circle cx="12" cy="8" r="1" stroke="var(--icon-shade)" stroke-width="1" fill="var(--icon-shade)"/>
+		<circle cx="20" cy="8" r="1" stroke="var(--icon-shade)" stroke-width="1" fill="var(--icon-shade)"/>
+		<line x1="4" y1="12" x2="28" y2="12" style="stroke:var(--icon-shade);stroke-width:1" />
+		<line x1="8" y1="16" x2="24" y2="16" style="stroke:var(--icon-shade);stroke-width:1" />
+		<line x1="8" y1="20" x2="24" y2="20" style="stroke:var(--icon-shade);stroke-width:1" />
+		<line x1="8" y1="24" x2="24" y2="24" style="stroke:var(--icon-shade);stroke-width:1" />
+
+		<line x1="8" y1="16" x2="8" y2="24" style="stroke:var(--icon-shade);stroke-width:1" />
+		<line x1="12" y1="16" x2="12" y2="24" style="stroke:var(--icon-shade);stroke-width:1" />
+		<line x1="16" y1="16" x2="16" y2="24" style="stroke:var(--icon-shade);stroke-width:1" />
+		<line x1="20" y1="16" x2="20" y2="24" style="stroke:var(--icon-shade);stroke-width:1" />
+		<line x1="24" y1="16" x2="24" y2="24" style="stroke:var(--icon-shade);stroke-width:1" />
+		</g>
+	<!-- zoomin 32x32 -->	
+	<g transform="translate(256,224)" class="colors">	
+		<circle cx="18" cy="13" r="8" stroke="var(--icon-color)" stroke-width="3" fill="var(--transparent)"/>
+		<line x1="14" y1="13" x2="22" y2="13" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="18" y1="9" x2="18" y2="17" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="4" y1="28" x2="14" y2="18" style="stroke:var(--icon-color);stroke-width:5" />	
+	</g>
+	<!-- zoomout 32x32 -->	
+	<g transform="translate(288,224)" class="colors">	
+		<circle cx="18" cy="13" r="8" stroke="var(--icon-color)" stroke-width="3" fill="var(--transparent)"/>
+		<line x1="14" y1="13" x2="22" y2="13" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="4" y1="28" x2="14" y2="18" style="stroke:var(--icon-color);stroke-width:5" />	
+	</g>
+	<!-- search 32x32 -->	
+	<g transform="translate(320,224)" class="colors">	
+		<circle cx="18" cy="13" r="8" stroke="var(--green)" stroke-width="3" fill="var(--transparent)"/>
+		<line x1="4" y1="28" x2="14" y2="18" style="stroke:var(--green);stroke-width:5" />	
+	</g>
+	<!-- wrench 32x32 -->	
+	<g transform="translate(352,224)" class="colors">	
+		<path transform="rotate(105,16,16) translate(4,8) scale(0.75,0.75)" fill="var(--icon-color)" 
+		d="M8.3810682,0C9.883068,-2.379893E-07 11.485043,0.39998543 12.786056,1.1009901 15.589983,2.6029432 16.890996,5.3058903 16.490975,7.9098408 21.195949,10.512784 29.606879,15.1177 31.308888,16.018683 33.610869,17.320658 29.606879,22.426541 27.403897,21.225577 25.801923,20.323586 17.291993,15.718671 12.586045,13.115727 9.9830427,14.5167 6.5790829,14.5167 3.7750935,13.015723 0.97214188,11.513771 -0.32984767,8.9108274 0.071149342,6.3078839L7.580111,10.41278 11.385068,8.8108232 11.585078,5.2058866 3.9761412,1.0009861C5.2770934,0.3000119,6.8790679,-2.379893E-07,8.3810682,0z" />
+	
+	</g>
+	<!-- gear 32x32 -->	
+	<g transform="translate(384,224)" class="colors">	
+		<circle cx="16" cy="16" r="6" stroke="var(--icon-color)" stroke-width="4" fill="var(--transparent)"/>	
+
+		<line x1="16" y1="5" x2="16" y2="9" style="stroke:var(--icon-color);stroke-width:5" />	
+		<line x1="16" y1="23" x2="16" y2="27" style="stroke:var(--icon-color);stroke-width:5" />	
+		<line x1="5" y1="16" x2="9" y2="16" style="stroke:var(--icon-color);stroke-width:5" />	
+		<line x1="22" y1="16" x2="27" y2="16" style="stroke:var(--icon-color);stroke-width:5" />	
+
+		<line x1="8" y1="8" x2="13" y2="13" style="stroke:var(--icon-color);stroke-width:5" />	
+		<line x1="24" y1="8" x2="19" y2="13" style="stroke:var(--icon-color);stroke-width:5" />	
+		<line x1="8" y1="24" x2="13" y2="19" style="stroke:var(--icon-color);stroke-width:5" />	
+		<line x1="24" y1="24" x2="19" y2="19" style="stroke:var(--icon-color);stroke-width:5" />	
+		
+	</g>
+	<!-- heart 32x32 -->	
+	<g transform="translate(416,224)" class="colors">	
+		<path transform="translate(4,4) scale(0.75,0.75) " fill="var(--icon-color)" 
+		d="M8.5319849,0C11.560988,7.3866431E-08 14.464015,1.6680007 15.99997,4.5209999 18.139016,0.55099538 22.921994,-1.1230173 27.008008,0.7949839 31.297024,2.8069787 33.185032,8.0069957 31.22604,12.411997 29.27303,16.804 15.998994,30.380001 15.998994,30.380001 15.915985,30.327022 2.7269701,16.804 0.77395964,12.411997 -1.1850933,8.0069957 0.70291448,2.8069787 4.9929701,0.7949839 6.1419612,0.25497467 7.3469826,7.3866431E-08 8.5319849,0z" />
+	
+	</g>
+	<!-- star 32x32 -->	
+	<g transform="translate(448,224)" class="colors">	
+		<path transform="translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M16,0L19.8,12.200003 32,12.200003 22.1,19.700004 25.9,31.900007 16,24.400005 6.0999994,31.900007 9.9000001,19.700004 0,12.200003 12.2,12.200003z" />
+	
+	</g>
+	<!-- link 32x32 -->	
+	<g transform="translate(480,224)" class="colors">	
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 27 11 A 4 4 0 0 0 21 5"  /> 
+		<line x1="5" y1="21" x2="11" y2="15" style="stroke:var(--icon-color);stroke-width:3" />	
+		<line x1="10" y1="28" x2="16" y2="22" style="stroke:var(--icon-color);stroke-width:3" />	
+
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 11 27 A 4 4 0 0 1 5 21"  /> 
+		<line x1="27" y1="11" x2="21" y2="17" style="stroke:var(--icon-color);stroke-width:3" />	
+		<line x1="22" y1="4" x2="16" y2="10" style="stroke:var(--icon-color);stroke-width:3" />	
+
+		<line x1="12" y1="20" x2="20" y2="12" style="stroke:var(--icon-color);stroke-width:3" />			
+		
+	</g>
+
+<!-- -->
+
+	<!-- cancel 32x32-->
+	<g id="cancel" transform="translate(0,256) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-warning)" stroke-width="3" fill="var(--transparent)"/>
+		<line x1="8" y1="24" x2="24" y2="8" style="stroke:var(--icon-warning);stroke-width:3" />
+	</g>
+
+	
+	<!-- plus 32x32-->
+	<g id="plus" transform="translate(32,256) " class="colors">
+		<line x1="4" y1="16" x2="28" y2="16" style="stroke:var(--green);stroke-width:3" />
+		<line x1="16" y1="4" x2="16" y2="28" style="stroke:var(--green);stroke-width:3" />
+	</g>
+
+	<!-- plusthick 32x32-->
+	<g id="plusthick" transform="translate(64,256) " class="colors">
+		<line x1="4" y1="16" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="16" y1="4" x2="16" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>	
+
+	<!-- minus 32x32 -->
+	<g id="minus" transform="translate(96,256) " class="colors">
+		<line x1="4" y1="16" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>	
+	
+	<!-- minusthick 32x32-->
+	<g id="minusthick" transform="translate(128,256) " class="colors">
+		<line x1="4" y1="16" x2="28" y2="16" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>
+
+	<!-- close 32x32-->
+	<g id="close" transform="translate(160,256) " class="colors">
+		<line x1="6" y1="26" x2="26" y2="6" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="6" y1="6" x2="26" y2="26" style="stroke:var(--icon-color);stroke-width:4" />
+	</g>
+	<!-- closethick 32x32-->
+	<g id="closethick" transform="translate(192,256) " class="colors">
+		<line x1="6" y1="26" x2="26" y2="6" style="stroke:var(--red);stroke-width:6" />
+		<line x1="6" y1="6" x2="26" y2="26" style="stroke:var(--red);stroke-width:6" />
+	</g>
+	
+	<!-- key 32x32-->
+	<g id="key" transform="translate(224,256) " class="colors">
+		<path id="path1" transform="translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M11.552225,14.262946C11.892217,15.06995,12.330216,15.821961,12.836207,16.522947L3.0813175,26.278892C2.6553192,26.704916 2.6563187,27.398882 3.0823169,27.825884 3.5073073,28.250869 4.2032988,28.250869 4.6292966,27.825884L14.279185,18.172905C15.478177,19.307911,16.916164,20.187912,18.513147,20.732954L18.513147,22.466894C18.513147,23.016941,18.065155,23.464937,17.515157,23.464937L14.771184,23.464937 14.771184,26.208885C14.771184,26.758932,14.32319,27.206928,13.7742,27.206928L11.030227,27.206928 11.030227,29.950874C11.030227,30.50086,10.581227,30.948856,10.032237,30.948856L7.2362626,30.948856 6.5392793,31.645876C6.114281,32.071901 1.8413252,32.296873 0.77233651,31.228885 -0.29765126,30.159858 -0.071648174,25.886924 0.35434201,25.459924z M25.373073,3.3809685C23.581085,3.3809687 22.129104,4.8350035 22.129104,6.6249749 22.129104,8.417998 23.581085,9.8709952 25.373073,9.8709952 27.165045,9.8709952 28.618032,8.417998 28.618032,6.6249749 28.618032,4.8350035 27.165045,3.3809687 25.373073,3.3809685z M22.25511,0C27.636049,1.024282E-07 32,4.361983 32,9.743981 32,15.125919 27.636049,19.488939 22.25511,19.488939 16.873165,19.488939 12.510207,15.125919 12.510207,9.743981 12.510207,4.361983 16.873165,1.024282E-07 22.25511,0z" />
+	
+	</g>
+	
+	<!-- lightbulb 32x32-->
+	<g id="lightbulb" transform="translate(256,256) " class="colors">
+		<path id="path1" transform="translate(8,4) scale(0.75,0.75)  " fill="var(--blue)" 
+		d="M7.477005,30.005981L11.763,30.005981C12.262009,30.005981 12.76001,30.404999 12.76001,31.002991 12.76001,31.501984 12.361008,32 11.763,32L7.477005,32C6.9779968,32 6.4799957,31.600983 6.4799957,31.002991 6.4799957,30.404999 6.878006,30.005981 7.477005,30.005981z M6.3800049,25.819L12.860001,25.819C13.358002,25.819 13.85701,26.217987 13.85701,26.81601 13.85701,27.315002 13.458008,27.812988 12.860001,27.812988L6.3800049,27.812988C5.8820038,27.812988 5.3829956,27.414001 5.3829956,26.81601 5.3829956,26.217987 5.7819977,25.819 6.3800049,25.819z M9.5700073,0C14.852997,0 19.139999,4.2869873 19.139999,9.4700012 19.139999,12.061981 18.044006,14.953003 16.249008,17.246002L16.149002,17.346008C15.451996,18.242981 13.656998,20.834991 13.656998,22.529999 13.656998,22.82901 13.458008,23.127991 13.158997,23.22699L12.660004,23.22699 12.262009,23.22699 9.5700073,23.22699 8.7720032,23.22699 6.1809998,23.22699C5.7819977,23.22699 5.3829956,22.928009 5.3829956,22.429993 5.3829956,20.436005 3.1900024,17.644989 2.9909973,17.346008 1.0960083,15.152985 0,12.161987 0,9.4700012 0,4.2869873 4.2870026,0 9.5700073,0z" />
+
+	</g>
+
+	<!-- scissors 32x32-->
+	<g id="scissors" transform="translate(288,256) " class="colors">
+		<path id="path1" transform="rotate(90,16,16) translate(4,5.5) scale(0.750000134110475,0.750000134110475)  " fill="var(--icon-color)"
+		d="M25.425269,19.295357C24.573287,19.293343 23.790288,19.616347 23.290292,20.260371 22.319306,21.509385 22.778302,23.490439 24.315278,24.686444 25.852267,25.880465 27.885257,25.837464 28.85525,24.589457 29.826234,23.339434 29.367238,21.359389 27.831256,20.163384 27.086266,19.584362 26.225266,19.296364 25.425269,19.295357z M6.5744242,19.295357C5.773436,19.297371 4.9134421,19.58537 4.1684532,20.163384 2.631463,21.359389 2.1724672,23.339434 3.1434521,24.589457 4.1144528,25.837464 6.1474256,25.880465 7.6844158,24.686444 9.2214059,23.490439 9.6804018,21.509385 8.7094163,20.260371 8.208414,19.617354 7.4254155,19.293343 6.5744242,19.295357z M24.907283,16.790307C26.347274,16.793297 27.89725,17.312319 29.238242,18.35433 32.005219,20.50537 32.831216,24.072449 31.083228,26.320475 29.335242,28.568531 25.675267,28.646536 22.908292,26.495497 22.043309,25.82248 21.36831,25.012469 20.90231,24.146456L20.815307,23.976439 16.874345,20.035359 19.918326,16.991299 21.161311,18.359335 21.164302,18.40734 21.238307,18.318348C22.141299,17.299319,23.469291,16.787316,24.907283,16.790307z M15.994347,13.191244C15.114364,13.191244 14.400365,13.906253 14.400365,14.786273 14.400365,15.666295 15.114364,16.380295 15.994347,16.380295 16.874345,16.380295 17.588342,15.666295 17.588342,14.786273 17.588342,13.906253 16.874345,13.191244 15.994347,13.191244z M26.201264,0C28.674251,5.6071247,23.672294,11.488211,23.672294,11.488211L11.185394,23.975432 11.097398,24.146456C10.631398,25.012469 9.9564008,25.82248 9.091402,26.495497 6.3244261,28.646536 2.6644523,28.568531 0.91648085,26.320475 -0.83150624,24.072449 -0.004517113,20.50537 2.7624588,18.35433 4.1024441,17.312319 5.6524348,16.793297 7.0924253,16.790307 8.5304174,16.787316 9.8583946,17.299319 10.761387,18.318348L10.835391,18.40734 10.838397,18.359335 12.487386,16.545308C12.597385,12.917252,13.998375,12.284246,13.998375,12.284246z M5.7984294,0L15.128356,9.3931727 13.225371,11.308215C12.753375,11.626213,11.889383,12.462227,11.476393,14.46327L11.448393,14.609269 8.3264093,11.488211C8.3264093,11.488211,3.3244507,5.6071247,5.7984294,0z" />
+	</g>
+
+	<!-- clipboard 32x32-->
+	<g id="clipboard" transform="translate(320,256) " class="colors">
+		<line x1="12" y1="10" x2="16" y2="4" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="20" y1="10" x2="16" y2="4" style="stroke:var(--icon-color);stroke-width:2" />
+		
+		<line x1="7" y1="10" x2="25" y2="10" style="stroke:var(--icon-color);stroke-width:5" />
+		<line x1="8" y1="10" x2="8" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="7" y1="28" x2="25" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="10" x2="24" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		
+		<line x1="8" y1="26" x2="12" y2="26" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="26" x2="20" y2="26" style="stroke:var(--icon-color);stroke-width:3" />	</g>
+	
+	
+	<!-- copy 32x32 -->	
+	<g id="copy" transform="translate(352,256) " class="colors">
+		<line x1="3" y1="4" x2="21" y2="4" style="stroke:var(--green);stroke-width:3" />
+		<line x1="4" y1="4" x2="4" y2="20" style="stroke:var(--green);stroke-width:3" />
+		<line x1="3" y1="20" x2="20" y2="20" style="stroke:var(--green);stroke-width:3" />
+		<line x1="20" y1="3" x2="20" y2="21" style="stroke:var(--green);stroke-width:3" />
+		
+		<line x1="11" y1="12" x2="28" y2="12" style="stroke:var(--green);stroke-width:3" />
+		<line x1="12" y1="12" x2="12" y2="28" style="stroke:var(--green);stroke-width:3" />
+		<line x1="11" y1="28" x2="28" y2="28" style="stroke:var(--green);stroke-width:3" />
+		<line x1="28" y1="11" x2="28" y2="29" style="stroke:var(--green);stroke-width:3" />
+		<line x1="28" y1="11" x2="28" y2="29" style="stroke:var(--green);stroke-width:3" />
+		
+	</g>	
+	
+	<!-- contact 32x32 -->
+	<g id="contact" transform="translate(384,256) " class="colors">
+		<path transform="translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M15.600037,14.899998C12.800049,14.899998,10.300049,17.500004,8.9000244,21.299993L22.200012,21.299993C20.900024,17.500004,18.400024,14.899998,15.600037,14.899998z M15.600037,8.6999996C14.200012,8.6999996 13,9.8999966 13,11.500003 13,13.099994 14.200012,14.299991 15.600037,14.299991 17,14.299991 18.200012,13.099994 18.200012,11.500003 18.200012,9.8999966 17.100037,8.6999996 15.600037,8.6999996z M27.300049,1.8999943L27.300049,29.799995 29.600037,29.799995 29.600037,1.8999943z M4.5,0L32,0 32,31.900001 4.5,31.900001 4.5,22.899999 0,22.899999 0,19.799993 4.5,19.799993 4.5,14.599994 0,14.599994 0,11.500003 4.5,11.500003 4.5,6.3999956 0,6.3999956 0,3.2999888 4.5,3.2999888z" />	
+	</g>
+	<!-- image 32x32 -->
+	<g id="image" transform="translate(416,256) " class="colors">
+		<path transform="translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M9.5999776,12.699997L11.899997,15.099998 13.299991,14.300003 19.000005,20 22.899999,18 28.299995,20.699997 28.299995,25.699997 3.5999767,25.699997 3.5999767,18.599998z M20.500005,11.699997L21.199987,11.699997 21.000005,12.800003 20.699987,12.800003z M23.09998,10.699997L23.799993,11.599998 23.59998,11.800003 22.699987,11.099998z M18.699987,10.699997L19.199987,11.199997 18.299993,11.900002 18.000005,11.599998z M23.59998,8.5999985L24.699987,8.8000031 24.699987,9 23.59998,9.1999969z M18.09998,8.5999985L18.09998,9.3000031 17.000005,9 17.000005,8.8000031z M20.799993,7C21.899999,7 22.699987,7.9000015 22.699987,8.9000015 22.699987,10 21.799993,10.800003 20.799993,10.800003 19.699987,10.800003 18.899999,9.9000015 18.899999,8.9000015 18.899999,7.8000031 19.799993,7 20.799993,7z M23.500005,6.0999985L23.699987,6.3000031 23.000005,7.1999969 22.500005,6.6999969z M18.199987,6.0999985L19.09998,6.8000031 18.59998,7.3000031 18.000005,6.3000031z M20.699987,5L21.000005,5 21.199987,6.0999985 20.500005,6.0999985z M2.1999823,2.4000015L2.1999823,26.800003 29.400001,26.800003 29.400001,2.4000015z M0,0L31.900001,0 31.900001,32 0,32z" />
+	
+	</g>
+	<!-- video 32x32 -->
+	<g id="video" transform="translate(448,256) " class="colors">
+		<path transform="translate(4,8) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M12.5,6.5C11.900024,8.0999756,10.400024,9.3999634,8.6000366,9.6999512L16.800049,9.6999512C14.800049,9.5,13.200012,8.1999512,12.5,6.5z M7.5,0C9.8000488,0 11.700012,1.3999634 12.400024,3.2999878 13.200012,1.3999634 15.200012,0 17.5,0 20.400024,0 22.700012,2.1999512 22.700012,4.8999634 22.700012,7.3999634 20.700012,9.3999634 18.100037,9.7999878L24.5,9.7999878 24.5,14.199951 32,10.199951 32,21.5 24.5,17.5 24.5,21.5 0,21.5 0,9.6999512 6.6000366,9.6999512C4.2000122,9.2999878 2.3000488,7.2999878 2.3000488,4.8999634 2.3000488,2.1999512 4.6000366,0 7.5,0z" />
+	
+	</g>
+	<!-- script 32x32 -->
+	<g id="script" transform="translate(480,256) " class="colors">
+		<path transform="translate(4,8) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M31.070068,4.4904912L31.141968,4.4904912C31.61499,4.4904912,32,4.8744982,32,5.3485024L32,21.155674C32,21.608683 31.648071,21.979689 31.203003,22.010687 30.984985,22.081688 30.695068,22.071686 30.424072,21.928686 26.260986,19.725659 21.956055,20.050667 17.953979,22.337687 17.422974,22.639693 15.915039,21.896689 16.650024,21.475678 20.942017,19.023655 25.72998,18.666649 30.212036,20.693672L30.212036,5.3485024C30.212036,4.8744982,30.596069,4.4904912,31.070068,4.4904912z M0.85803223,4.3464926L0.92907715,4.3464926C1.4040527,4.3464926,1.7879639,4.731499,1.7879639,5.2045038L1.7879639,20.549673C6.2700195,18.52265 11.057007,18.880656 15.348999,21.332678 16.084961,21.752682 14.57605,22.496693 14.045044,22.194687 10.042969,19.90766 5.7390137,19.58166 1.5760498,21.785687 1.3040771,21.929686 1.0150146,21.938689 0.79602051,21.868689 0.35107422,21.836682 0,21.466683 0,21.011677L0,5.2045038C0,4.731499,0.3840332,4.3464926,0.85803223,4.3464926z M24.032959,0.087443032C25.30896,0.085444279,26.791992,0.25645139,28.511963,0.68145146L28.513062,18.902651C28.513062,18.902651,22.608032,15.793617,16.782959,20.135668L16.886963,3.372483C16.886963,3.3724828,18.505981,0.099444367,24.032959,0.087443032z M7.6330566,0.00044409379C7.723999,0.00044426088 7.8129883,-0.00055520078 7.901001,0.00044409379 13.46106,0.041445077 15.089966,3.2634804 15.089966,3.2634804L15.217041,19.992668C9.0429688,16.120623,3.4859619,18.758654,3.4859619,18.758654L3.4870605,0.53745284C5.0600586,0.17245085,6.4350586,0.013444892,7.6330566,0.00044409379z" />
+	
+	</g>
+
+<!--  -->
+	<!-- alert 32x32-->
+	<g id="alert" transform="translate(0,288) " class="colors">
+		<polygon points="2,30 16,2 30,30" style="fill:var(--icon-error);" />
+		<line x1="16" y1="18" x2="16" y2="27" style="stroke:var(--white);stroke-width:5" />
+		<circle cx="16" cy="13" r="2" stroke="var(--white)" stroke-width="3" fill="var(--white)"/>
+	</g>
+	<!-- info 32x32-->
+	<g id="info" transform="translate(32,288) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-warning)" stroke-width="3" fill="var(--icon-warning)"/>
+		<line x1="16" y1="14" x2="16" y2="26" style="stroke:var(--white);stroke-width:5" />
+		<circle cx="16" cy="8" r="2" stroke="var(--white)" stroke-width="3" fill="var(--white)"/>
+	
+	</g>
+	<!-- notice 32x32-->
+	<g id="notice" transform="translate(64,288) " class="colors">
+		<polygon points="12,4 16,20 20,4" style="fill:var(--icon-color);" />
+		<circle cx="16" cy="24" r="2" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+	</g>
+	<!-- help 32x32-->
+	<g id="help" transform="translate(96,288) " class="colors">
+		<line x1="16" y1="12" x2="16" y2="19" style="stroke:var(--blue);stroke-width:3" />
+		<circle cx="16" cy="23" r="1" stroke="var(--blue)" stroke-width="3" fill="var(--blue)"/>
+		<path stroke="var(--blue)" fill="var(--transparent)" stroke-width="3" d=" M 12 10 A 4 4 0 1 1 16 14" /> 
+	</g>
+	
+	<!-- check 32x32-->
+	<g id="check" transform="translate(128,288) " class="colors">
+		<line x1="8" y1="18" x2="16" y2="26" style="stroke:var(--green);stroke-width:4" />
+		<line x1="14" y1="26" x2="26" y2="8" style="stroke:var(--green);stroke-width:4" />
+	</g>
+	
+	<!-- bullet 32x32-->
+	<g id="bullet" transform="translate(160,288) " class="colors">
+		<circle cx="16" cy="16" r="4" stroke="var(--icon-color)" fill="var(--icon-color)" stroke-width="3"/>	
+	</g>
+	<!-- radio-off 32x32-->
+	<g id="radio-off" transform="translate(192,288) " class="colors">
+		<circle cx="16" cy="16" r="8" stroke="var(--icon-color)" stroke-width="3" fill="var(--transparent)" />	
+	</g>
+	<!-- radio-on 32x32-->
+	<g id="radio-on" transform="translate(224,288) " class="colors">
+		<circle cx="16" cy="16" r="8" stroke="var(--icon-color)" stroke-width="6" fill="var(--transparent)" />	
+	</g>
+	<!-- pin-w 32x32-->
+	<g id="pin-w" transform="translate(256,288) " class="colors">
+		<line x1="4" y1="4" x2="4" y2="28" style="stroke:var(--icon-color);stroke-width:4" />
+		<rect x="6" y="10" width="10" height="12" fill="var(--icon-color)" /> 
+		<polygon points="22,4 8,16 22,28" style="fill:var(--icon-color);" />
+		<line x1="22" y1="16" x2="30" y2="16" style="stroke:var(--icon-color);stroke-width:2" />
+		</g>
+	<!-- pin-s 32x32-->	
+	<g id="pin-s" transform="translate(288,288) " class="colors">
+		<line x1="4" y1="4" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:4" />
+		<rect x="10" y="6" width="12" height="10" fill="var(--icon-color)" /> 
+		<polygon points="4,22 16,8 28,22" style="fill:var(--icon-color);" />
+		<line x1="16" y1="22" x2="16" y2="30" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+	<!-- shield 32x32-->	
+	<g id="shield" transform="translate(320,288) " class="colors">
+		<path transform="translate(6.5,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M12.678023,5.8000488C12.678023,5.8000488 17.477961,8.7000122 20.577904,8.2000122 20.577904,8.2000122 22.67792,22.600037 12.678023,26.600037 2.6781254,22.600037 4.7780793,8.2000122 4.7780793,8.2000122 7.878023,8.8000488 12.678023,5.8000488 12.678023,5.8000488z M12.678023,2.1000366C12.678023,2.1000366 6.1780894,6 2.0780948,5.3000488 2.0780948,5.3000488 -0.82183857,24.600037 12.678023,30 26.177883,24.700012 23.277888,5.4000244 23.277888,5.4000244 19.177956,6.1000366 12.678023,2.1000366 12.678023,2.1000366z M12.678023,0L13.577977,0.60003662C14.977987,1.4000244 19.27793,3.6000366 22.177923,3.6000366 22.477909,3.6000366 22.67792,3.6000366 22.977904,3.5L24.777872,3.2000122 25.077858,5C25.177893,5.8000488,27.977852,25.800049,13.377966,31.600037L12.678023,32 11.978017,31.700012C-2.6218688,25.900024,0.17815109,5.9000244,0.27812545,5.1000366L0.57811038,3.3000488 2.3780797,3.6000366C2.5780898,3.6000366 2.8780745,3.7000122 3.1781204,3.7000122 6.0780538,3.7000122 10.377997,1.5 11.778007,0.70001221z" />
+	
+	</g>
+	<!-- cloud 32x32-->
+	<g id="cloud" transform="translate(352,288) " class="colors">
+		<path transform="translate(2,8) scale(0.85,0.85)" fill="var(--icon-color)" 
+		d="M15.850037,0
+		C19.460999,0 22.570984,3.0090027 23.574036,7.2230072 24.176025,7.0220032 24.778015,6.9220123 25.380005,6.9220123 29.091003,6.9220123 32,10.23201 32,14.24501 32,16.853012 30.796997,19.160004 28.890991,20.464005 28.189026,21.166 27.184998,21.567001 26.182007,21.567001 25.880981,21.567001 25.68103,21.667999 25.380005,21.667999 25.079041,21.667999 24.877991,21.667999 24.577026,21.567001
+		L15.850037,21.567001
+		L7.4240112,21.367004C7.1229858,21.367004 6.9219971,21.46701 6.6210327,21.46701 2.9100342,21.46701 0,18.35701 0,14.445007 0,10.533005 3.0100098,7.4230042 6.6210327,7.4230042 7.1229858,7.4230042 7.6240234,7.5230103 8.1260376,7.6240082 8.9280396,3.2100067 12.038025,0 15.850037,0z" />
+	</g>
+	<!-- cloud-up 32x32-->
+	<g id="cloud-up" transform="translate(384,288) " class="colors">
+		<path transform="translate(2,8) scale(0.85,0.85)  " fill="var(--icon-color)" 
+		d="M15.850037,0
+		C19.460999,0 22.570984,3.0090027 23.574036,7.2230072 24.176025,7.0220032 24.778015,6.9220123 25.380005,6.9220123 29.091003,6.9220123 32,10.23201 32,14.24501 32,16.853012 30.796997,19.160004 28.890991,20.464005 28.189026,21.166 27.184998,21.567001 26.182007,21.567001 25.880981,21.567001 25.68103,21.667999 25.380005,21.667999 25.079041,21.667999 24.877991,21.667999 24.577026,21.567001
+		L15.850037,21.567001
+		C16.051025,21.567001 16.251038,21.46701 16.452026,21.367004 16.752991,21.166 16.953003,20.865005 16.953003,20.464005
+		L16.953003,9.8310089 20.062988,13.241013
+		C20.463989,13.643005 21.166992,13.643005 21.567993,13.241013 21.968994,12.840012 21.968994,12.03801 21.567993,11.636002
+		L16.752991,6.3200073
+		C16.652039,6.3200073,16.652039,6.2190094,16.652039,6.2190094
+		L16.552002,6.1190033 16.151001,6.0190125 16.051025,6.0190125 15.950012,6.0190125 15.850037,6.0190125 15.75,6.0190125 15.648987,6.0190125 15.549011,6.0190125 15.449036,6.0190125 15.348022,6.0190125 15.247986,6.0190125
+		C15.14801,6.0190125,15.14801,6.1190033,15.14801,6.1190033
+		L15.048035,6.1190033 14.947021,6.2190094 10.031982,11.536011C9.8309937,11.737 9.7310181,12.03801 9.7310181,12.339005 9.7310181,12.639008 9.8309937,12.940002 10.031982,13.141006 10.432983,13.542007 11.035034,13.542007 11.536987,13.141006 
+		L14.645996,9.730011 14.645996,20.263C14.645996,20.564011 14.747009,20.865005 14.947021,21.06601 15.14801,21.266006 15.348022,21.367004 15.648987,21.367004
+		L7.4240112,21.367004C7.1229858,21.367004 6.9219971,21.46701 6.6210327,21.46701 2.9100342,21.46701 0,18.35701 0,14.445007 0,10.533005 3.0100098,7.4230042 6.6210327,7.4230042 7.1229858,7.4230042 7.6240234,7.5230103 8.1260376,7.6240082 8.9280396,3.2100067 12.038025,0 15.850037,0z" />
+	
+	</g>
+	<!-- cloud-down 32x32-->
+	<g id="cloud-down" transform="translate(416,288) " class="colors">
+		<path transform="translate(2,8) scale(0.85,0.85)  " fill="var(--icon-color)" 
+		d="M15.849991,0C19.460999,0 22.570999,3.0090027 23.57399,7.2230072 24.175995,7.0220032 24.778,6.9220123 25.37999,6.9220123 29.091003,6.9220123 32,10.23201 32,14.24501 32,16.853012 30.796997,19.160004 28.890991,20.464005 28.188995,21.166 27.184998,21.567001 26.181992,21.567001 25.880997,21.567001 25.681,21.667999 25.37999,21.667999 25.078995,21.667999 24.778,21.667999 24.576996,21.567001L16.35199,21.567001 16.451996,21.46701 16.552002,21.46701 16.653,21.367004 21.567993,16.050003C21.968994,15.649002 21.968994,14.846008 21.567993,14.445007 21.166992,14.044006 20.463989,14.044006 20.063004,14.445007L16.953003,17.856003 16.953003,7.1220093C16.953003,6.7210083 16.752991,6.4200134 16.451996,6.2190094 16.250992,6.1190033 16.050995,6.0190125 15.849991,6.0190125 15.548996,6.0190125 15.347992,6.1190033 15.147995,6.3200073 14.946991,6.5200043 14.847,6.8209991 14.847,7.1220093L14.847,17.654999 11.737,14.24501C11.335999,13.843002 10.634003,13.843002 10.231995,14.24501 10.031998,14.445007 9.9309998,14.746002 9.9309998,15.047012 9.9309998,15.348007 10.031998,15.649002 10.231995,15.850006L15.046997,21.166 15.147995,21.266006 15.248001,21.367004 15.347992,21.367004C15.44899,21.367004,15.44899,21.46701,15.44899,21.46701L7.423996,21.46701C7.1230011,21.46701 6.9219971,21.567001 6.6210022,21.567001 2.9100037,21.567001 0,18.458008 0,14.545013 0,10.633011 3.0099945,7.5230103 6.6210022,7.5230103 7.1230011,7.5230103 7.6239929,7.6240082 8.1259918,7.723999 8.9279938,3.2100067 12.037994,0 15.849991,0z" />
+	
+	</g>
+	
+	
+	<!-- menu 32x32-->
+	<g id="menu" transform="translate(448,288) " class="colors">
+		<line x1="8" y1="8" x2="24" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="16" x2="24" y2="16" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="24" x2="24" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- menu-dot 32x32-->
+	<g id="menu-dot" transform="translate(480,288) " class="colors">
+		<rect x="12" y="6"  rx="2" ry="2" width="8" height="4" fill="var(--icon-color)" />	
+		<rect x="12" y="14" rx="2" ry="2" width="8" height="4" fill="var(--icon-color)" />	
+		<rect x="12" y="22" rx="2" ry="2" width="8" height="4" fill="var(--icon-color)" />	
+		
+	</g>
+
+	
+<!--  -->
+	<!-- play 32x32-->	
+	<g id="play" transform="translate(0,320) " class="colors">
+		<polygon points="12,10 24,16 12,22" style="fill:var(--green);" />
+	</g>
+	<!-- pause 32x32-->	
+	<g id="pause" transform="translate(32,320) " class="colors">
+		<line x1="12" y1="10" x2="12" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="20" y1="10" x2="20" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- seek-next 32x32-->	
+	<g id="seek-next" transform="translate(64,320) " class="colors">
+		<polygon points="8,10 20,16 8,22" style="fill:var(--icon-color);" />
+		<line x1="17" y1="10" x2="28" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="17" y1="22" x2="28" y2="15" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- seek-prev 32x32-->	
+	<g id="seek-prev" transform="translate(96,320) " class="colors">
+		<polygon points="24,10 12,16 24,22" style="fill:var(--icon-color);" />
+		<line x1="15" y1="10" x2="4" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="15" y1="22" x2="4" y2="15" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- seek-end 32x32-->	
+	<g id="seek-end" transform="translate(128,320) " class="colors">
+		<polygon points="8,10 20,16 8,22" style="fill:var(--icon-color);" />
+		<line x1="24" y1="10" x2="24" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- seek-first 32x32-->	
+	<g id="seek-first" transform="translate(160,320) " class="colors">
+		<polygon points="24,10 12,16 24,22" style="fill:var(--icon-color);" />
+		<line x1="8" y1="10" x2="8" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- stop 32x32-->	
+	<g id="stop" transform="translate(192,320) " class="colors">
+		<rect x="10" y="10" width="12" height="12" fill="var(--icon-color)" /> 
+	</g>
+	<!-- eject 32x32-->	
+	<g id="eject" transform="translate(224,320) " class="colors">
+		<polygon points="8,16 16,8 24,16" style="fill:var(--icon-color);" />
+		<line x1="8" y1="20" x2="24" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- volume-off 32x32-->	
+	<g id="volume-off" transform="translate(256,320) " class="colors">
+		<polygon points="18,4 6,16 18,28" style="fill:var(--icon-color);" />
+		<rect x="4" y="12" width="10" height="8" fill="var(--icon-color)" /> 
+	</g>
+	<!-- volume-on 32x32-->	
+	<g id="volume-on" transform="translate(288,320) " class="colors">
+		<polygon points="18,4 6,16 18,28" style="fill:var(--icon-color);" />
+		<rect x="4" y="12" width="10" height="8" fill="var(--icon-color)" /> 
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="2" d=" M 23 9 A 6 8 0 0 1 23 23" />
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="2" d=" M 21 12 A 6 8 0 0 1 21 20" />
+	</g>
+
+	<!-- gps 32x32-->
+	<g id="gps-off" transform="translate(320,320) " class="colors">
+		<path stroke="var(--icon-color)" fill="var(--icon-color" stroke-width="2" d=" M 21 25 A 10 10 0 0 1 7 11"   /> 
+		<circle cx="14" cy="18" r="3" stroke="var(--icon-color)" stroke-width="2" fill="var(--icon-color)"/>
+	</g>
+	
+	<!-- gps-on 32x32-->
+	<g id="gps-on" transform="translate(352,320) " class="colors">
+		<path stroke="var(--icon-color)" fill="var(--icon-color" stroke-width="2" d=" M 21 25 A 10 10 0 0 1 7 11"   /> 
+		<circle cx="14" cy="18" r="3" stroke="var(--icon-color)" stroke-width="2" fill="var(--icon-color)"/>
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="2" d=" M 16 10 A 6 6 0 0 1 22 16"    /> 
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="2" d=" M 16 5 A 11 11 0 0 1 27 16"   /> 
+	</g>
+
+	<!-- bell 32x32-->
+	<g id="bell" transform="translate(384,320) " class="colors">
+		<path transform="translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M15.899988,20.5C8.799993,20.5 2.9999971,22 2.9999971,23.9 2.9999971,25.6 7.7999935,27.1 14.099989,27.3L14.099989,24.4C14.099989,23.3 15.099988,22.4 16.299987,22.4 17.499986,22.4 18.499985,23.3 18.499985,24.4L18.499985,27.3C24.299981,27 28.699978,25.6 28.699978,23.9 28.799977,22 22.999982,20.5 15.899988,20.5z M13.19999,0L19.099985,0 19.099985,3.5C23.099982,4.4000001 25.89998,6.8000002 25.89998,9.8 25.89998,9.8000001 25.399981,12.7 25.89998,13.6 27.799978,17.2 31.899976,20.4 31.899976,22.7 31.899976,26.3 26.099979,28.099999 18.599986,28.400001L18.599986,30.000001C18.599986,31.099999 17.599986,32.000001 16.399987,32.000001 15.199988,32.000001 14.199989,31.099999 14.199989,30.000001L14.199989,28.400001C6.199995,28.2 0,26.4 0,22.7 0,20.4 3.9999962,17.2 5.9999952,13.6 6.4999943,12.7 5.9999952,9.8000001 5.9999952,9.8 5.9999952,6.8000002 9.0999928,4.1999998 13.19999,3.4000001z" />
+	</g>
+
+	<!-- share 32x32-->
+	<g id="share" transform="translate(416,320) " class="colors">
+		<circle cx="8" cy="16" r="3" stroke="var(--icon-color)" stroke-width="2" fill="var(--icon-color)"/>
+		<circle cx="24" cy="8" r="3" stroke="var(--icon-color)" stroke-width="2" fill="var(--icon-color)"/>
+		<circle cx="24" cy="24" r="3" stroke="var(--icon-color)" stroke-width="2" fill="var(--icon-color)"/>
+		<line x1="8" y1="16" x2="24" y2="8" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="8" y1="16" x2="24" y2="24" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+	<!-- thumbs-up 32x32-->
+	<g id="thumbs-up" transform="translate(448,320) " class="colors">
+		<path transform=" translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M19.399159,0.0002787064C22.20918,0.043278397 22.416182,2.2572923 22.593186,3.777288 22.356185,6.4943102 19.635154,9.1193216 19.635154,9.1193216L17.269137,12.113322C17.269137,12.113322 18.150141,12.074321 20.937167,12.195324 23.150182,12.291332 25.465203,11.97732 28.569232,12.712324 35.60928,15.475336 29.633237,17.410342 29.633237,17.410342 33.479275,19.574353 30.04724,21.877372 30.04724,21.877372 32.474263,25.285376 28.513232,25.994393 28.746236,26.022378 29.515238,26.11439 32.177262,28.279406 27.622218,30.167416 27.622218,30.167416 22.652177,31.872411 19.931161,31.872411 18.156153,32.101416 13.068099,32.148413 9.223067,30.904418 4.6670301,30.305417 3.786026,30.692412 0,31.245423L0.052994262,19.067363C0.052994061,19.067363 2.8330154,18.51435 5.3180363,15.935345 6.3240564,14.830344 7.2110569,12.804334 7.8620631,11.008322 8.4540632,9.9943255 8.2760675,9.533325 11.056089,8.6583212 12.831097,7.8763045 15.612126,6.2633064 16.85414,3.6842852 17.20914,2.5332945 16.707137,-0.030727048 19.399159,0.0002787064z" />	
+	</g>
+	<!-- thumbs-down 32x32-->
+	<g id="thumbs-down" transform="translate(480,320) " class="colors">
+		<path transform=" translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M14.563856,7.4782818E-05C16.901871,-0.0049298852 20.132901,0.24006255 22.776919,1.096056 27.330958,1.6940566 28.21396,1.3080593 32.000003,0.75505637L31.946992,12.932931C31.946992,12.932931 29.166972,13.484928 26.680959,16.063895 25.677945,17.169884 24.789937,19.194872 24.136931,20.991848 23.544932,22.005816 23.722926,22.466839 20.943913,23.34183 19.168889,24.123803 16.386868,25.735785 15.144854,28.313759 14.788864,29.466763 15.292866,32.029723 12.600842,31.999724 9.7908218,31.956725 9.584812,29.74273 9.4048174,28.222758 9.6428106,25.505776 12.361842,22.880806 12.361842,22.880806L14.730864,19.886851C14.730864,19.886851 13.850853,19.925852 11.060821,19.80485 8.8498047,19.708844 6.5337918,20.021859 3.4307621,19.287857 -3.6092879,16.523896 2.3667584,14.589911 2.3667586,14.589911 -1.480273,12.425933 1.9527536,10.122965 1.9527537,10.122965 -0.47326861,6.7149977 3.4857631,6.0060057 3.2527669,5.9769992 2.4817572,5.886012 -0.18026696,3.7210271 4.376777,1.8330474 4.376777,1.8330474 9.3468187,0.12806426 12.068841,0.12806408 12.622845,0.056074086 13.500844,0.0020738221 14.563856,7.4782818E-05z" />
+	</g>
+	
+	
+<!--  -->
+	
+	<!-- power 32x32-->	
+	<g id="power" transform="translate(0,352) " class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 23 6 A 12 12 -55 1 1 9 6" /> 
+		<line x1="16" y1="2" x2="16" y2="16" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- signal-diag 32x32-->	
+	<g id="signal-diag" transform="translate(32,352) " class="colors">
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 4 24 A 4 4 0 0 1 8 28" /> 
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 4 16 A 12 12 0 0 1 16 28" /> 
+		<path stroke="var(--icon-color)" fill="var(--transparent)" stroke-width="3" d=" M 4 8 A 20 20 0 0 1 24 28" /> 
+	</g>
+	<!-- signal 32x32-->	
+	<g id="signal" transform="translate(64,352) " class="colors">
+		<line x1="4" y1="28" x2="4" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="12" y1="28" x2="12" y2="16" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="20" y1="28" x2="20" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="28" x2="28" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- battery-0 32x32-->	
+	<g id="battery-0" transform="translate(96,352) " class="colors">
+		<line x1="8" y1="10" x2="23" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="10" x2="8" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="22" x2="23" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="10" x2="24" y2="14" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="22" x2="24" y2="18" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="12" x2="26" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- battery-1 32x32-->
+	<g id="battery-1" transform="translate(128,352) " class="colors">
+		<line x1="8" y1="10" x2="23" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="10" x2="8" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="22" x2="23" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="10" x2="24" y2="14" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="22" x2="24" y2="18" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="12" x2="26" y2="20" style="stroke:var(--icon-color);stroke-width:3" />	
+		<line x1="12" y1="12" x2="12" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- battery-2 32x32-->
+	<g id="battery-2" transform="translate(160,352) " class="colors">
+		<line x1="8" y1="10" x2="23" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="10" x2="8" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="22" x2="23" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="10" x2="24" y2="14" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="22" x2="24" y2="18" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="12" x2="26" y2="20" style="stroke:var(--icon-color);stroke-width:3" />	
+		<line x1="12" y1="12" x2="12" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="12" x2="16" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- battery-3 32x32-->
+	<g id="battery-3" transform="translate(192,352) " class="colors">
+		<line x1="8" y1="10" x2="23" y2="10" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="10" x2="8" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="22" x2="23" y2="22" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="10" x2="24" y2="14" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="22" x2="24" y2="18" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="26" y1="12" x2="26" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+
+		<line x1="12" y1="12" x2="12" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="16" y1="12" x2="16" y2="20" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="20" y1="12" x2="20" y2="20" style="stroke:var(--icon-color);stroke-width:3" />		
+	</g>
+
+	<!-- import 32x32-->
+	<g id="import" transform="translate(224,352) " class="colors">
+		<line x1="3" y1="4" x2="20" y2="4" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="4" x2="4" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="3" y1="28" x2="20" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="20" y1="3" x2="20" y2="8" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="20" y1="29" x2="20" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+		<polygon points="10,16 16,10 16,22" style="fill:var(--icon-color);" />	
+		<polygon points="16,13 16,19 28,16" style="fill:var(--icon-color);" />	
+	</g>
+	<!-- export 32x32-->
+	<g id="export" transform="translate(256,352) " class="colors">
+		<line x1="3" y1="4" x2="20" y2="4" style="stroke:var(--green);stroke-width:3" />
+		<line x1="4" y1="4" x2="4" y2="28" style="stroke:var(--green);stroke-width:3" />
+		<line x1="3" y1="28" x2="20" y2="28" style="stroke:var(--green);stroke-width:3" />
+		<line x1="20" y1="3" x2="20" y2="8" style="stroke:var(--green);stroke-width:3" />
+		<line x1="20" y1="29" x2="20" y2="24" style="stroke:var(--green);stroke-width:3" />
+		<polygon points="28,16 22,10 22,22" style="fill:var(--green);" />	
+		<polygon points="22,13 22,19 10,16" style="fill:var(--green);" />	
+	</g>
+	<!-- upload 32x32-->
+	<g id="upload" transform="translate(288,352) " class="colors">
+		<line x1="4" y1="12" x2="4" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="28" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="28" x2="28" y2="12" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="12" x2="8" y2="12" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="12" x2="28" y2="12" style="stroke:var(--icon-color);stroke-width:3" />
+		<polygon points="10,10 16,4 22,10" style="fill:var(--icon-color);" />	
+		<polygon points="13,9 19,9 16,22" style="fill:var(--icon-color);" />	
+	</g>
+	<!-- download 32x32-->
+	<g id="download" transform="translate(320,352) " class="colors">
+		<line x1="4" y1="12" x2="4" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="28" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="28" y1="28" x2="28" y2="12" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="4" y1="12" x2="8" y2="12" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="24" y1="12" x2="28" y2="12" style="stroke:var(--icon-color);stroke-width:3" />
+		<polygon points="10,16 16,22 22,16" style="fill:var(--icon-color);" />	
+		<polygon points="13,16 19,16 16,4" style="fill:var(--icon-color);" />	
+	</g>
+	
+	<!-- camera 32x32-->
+	<g id="camera" transform="translate(352,352) " class="colors">
+		<line x1="12" y1="9" x2="20" y2="9" style="stroke:var(--icon-color);stroke-width:3" />
+		<rect x="6" y="12" width="20" height="12" fill="var(--icon-color)"/>
+		<line x1="22" y1="14" x2="24" y2="14" style="stroke:var(--icon-contrast);stroke-width:2" />
+		<circle cx="16" cy="18" r="3" stroke="var(--icon-contrast)" stroke-width="2" fill="var(--icon-color)"/>
+	</g>
+
+	<!-- database 32x32-->
+	<g id="database" transform="translate(384,352) " class="colors">
+		<rect x="6" y="8" rx="2" ry="2" width="20" height="5" fill="var(--icon-color)" />	
+		<rect x="6" y="14" rx="2" ry="2" width="20" height="5" fill="var(--icon-color)" />	
+		<rect x="6" y="20" rx="2" ry="2" width="20" height="5" fill="var(--icon-color)" />	
+		<circle cx="9" cy="10" r="1" stroke="var(--icon-contrast)" stroke-width="1" fill="var(icon-contrast)"/>
+	</g>
+
+	<!-- location 32x32-->
+	<g id="location" transform="translate(416,352) " class="colors">
+		<circle cx="16" cy="12" r="6" stroke="var(--icon-color)" stroke-width="6" fill="var(--transparent)"/>
+		<polygon points="8,16 16,28 24,16" style="fill:var(--icon-color);" />
+	</g>
+
+	<!-- map 32x32-->
+	<g id="map" transform="translate(448,352) " class="colors">
+		<polygon points="2,12 10,8 10,12" style="fill:var(--icon-color);" />
+		<rect x="2" y="12" width="8" height="8" fill="var(--icon-color)"/>
+		<polygon points="2,24 2,20 10,20" style="fill:var(--icon-color);" />
+		
+		<polygon points="11,8 11,12 21,11" style="fill:var(--icon-color);" />
+		<rect x="11" y="11" width="10" height="8" fill="var(--icon-color)"/>
+		<polygon points="11,18 21,19 21,22" style="fill:var(--icon-color);" />
+		
+		<polygon points="22,12 28,8 28,11" style="fill:var(--icon-color);" />
+		<rect x="22" y="11" width="6" height="8" fill="var(--icon-color)"/>
+		<polygon points="22,22 22,19 28,18" style="fill:var(--icon-color);" />		
+	</g>
+
+		<!-- navigation 32x32-->
+	<g id="navigation" transform="rotate(25,496,368) translate(480,352) " class="colors">
+		<polygon points="6,26 16,6 16,16" style="fill:var(--icon-color);" />
+		<polygon points="26,26 16,6 16,16" style="fill:var(--icon-color);" />
+	</g>
+
+	
+<!--  -->
+	
+	<!-- circle-plus 32x32-->
+	<g id="circle-plus" transform="translate(0,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<line x1="8" y1="16" x2="24" y2="16" style="stroke:var(--icon-contrast);stroke-width:5" />
+		<line x1="16" y1="8" x2="16" y2="24" style="stroke:var(--icon-contrast);stroke-width:5" />		
+	</g>
+	<!-- circle-minus 32x32-->
+	<g id="circle-minus" transform="translate(32,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<line x1="8" y1="16" x2="24" y2="16" style="stroke:var(--icon-contrast);stroke-width:5" />
+	</g>
+	<!-- circle-close 32x32-->
+	<g id="circle-close" transform="translate(64,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<line x1="8" y1="8" x2="24" y2="24" style="stroke:var(--icon-contrast);stroke-width:5" />
+		<line x1="8" y1="24" x2="24" y2="8" style="stroke:var(--icon-contrast);stroke-width:5" />				
+	</g>
+	<!-- circle-triangle-e 32x32-->
+	<g id="circle-triangle-e" transform="translate(96,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<polygon points="11,8 25,16 11,24" style="fill:var(--icon-contrast);" />
+	</g>
+	<!-- circle-triangle-s 32x32-->
+	<g id="circle-triangle-s" transform="translate(128,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<polygon points="8,11 16,25 24,11" style="fill:var(--icon-contrast);" />
+	</g>
+	<!-- circle-triangle-w 32x32-->
+	<g id="circle-triangle-w" transform="translate(160,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<polygon points="21,8 7,16 21,24" style="fill:var(--icon-contrast);" />
+	</g>
+	<!-- circle-triangle-n 32x32-->
+	<g id="circle-triangle-n" transform="translate(192,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<polygon points="8,21 16,7 24,21" style="fill:var(--icon-contrast);" />
+	</g>
+	<!-- circle-arrow-e 32x32-->
+	<g id="circle-arrow-e" transform="translate(224,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<polygon points="16,8 24,16 16,24" style="fill:var(--icon-contrast);" />
+		<line x1="8" y1="16" x2="16" y2="16" style="stroke:var(--icon-contrast);stroke-width:5" />	
+	</g>
+	<!-- circle-arrow-s 32x32-->
+	<g id="circle-arrow-s" transform="translate(256,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<polygon points="8,16 16,24 24,16" style="fill:var(--icon-contrast);" />
+		<line x1="16" y1="8" x2="16" y2="16" style="stroke:var(--icon-contrast);stroke-width:5" />	
+	</g>
+	<!-- circle-arrow-w 32x32-->
+	<g id="circle-arrow-w" transform="translate(288,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<polygon points="16,8 8,16 16,24" style="fill:var(--icon-contrast);" />
+		<line x1="16" y1="16" x2="24" y2="16" style="stroke:var(--icon-contrast);stroke-width:5" />	
+		
+	</g>
+	<!-- circle-arrow-n 32x32-->
+	<g id="circle-arrow-n" transform="translate(320,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<polygon points="8,16 16,8 24,16" style="fill:var(--icon-contrast);" />
+		<line x1="16" y1="24" x2="16" y2="16" style="stroke:var(--icon-contrast);stroke-width:5" />
+	</g>
+	<!-- circle-zoomin 32x32-->
+	<g id="circle-zoomin" transform="translate(352,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<circle cx="18" cy="13" r="5" stroke="var(--icon-contrast)" stroke-width="3" fill="var(--icon-contrast)"/>
+		<line x1="10" y1="22" x2="16" y2="16" style="stroke:var(--icon-contrast);stroke-width:5" />
+		<line x1="14" y1="13" x2="22" y2="13" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="18" y1="9" x2="18" y2="17" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- circle-zoomout 32x32-->
+	<g id="circle-zoomout" transform="translate(384,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<circle cx="18" cy="13" r="5" stroke="var(--icon-contrast)" stroke-width="3" fill="var(--icon-contrast)"/>
+		<line x1="10" y1="22" x2="16" y2="16" style="stroke:var(--icon-contrast);stroke-width:5" />		
+		<line x1="14" y1="13" x2="22" y2="13" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- circle-check 32x32-->
+	<g id="circle-check" transform="translate(416,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<line x1="10" y1="16" x2="16" y2="23" style="stroke:var(--icon-contrast);stroke-width:5" />
+		<line x1="14" y1="22" x2="24" y2="10" style="stroke:var(--icon-contrast);stroke-width:5" />
+	</g>
+	<!-- circle-chevron-2-n 32x32-->
+	<g id="circle-chevron-2-n" transform="translate(448,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<line x1="8" y1="15" x2="17" y2="7" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="24" y1="15" x2="15" y2="7" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="8" y1="23" x2="16" y2="15" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="24" y1="23" x2="15" y2="15" style="stroke:var(--icon-contrast);stroke-width:3" />
+		
+	</g>
+	<!-- circle-chevron-2-s 32x32-->
+	<g id="circle-chevron-2-s" transform="translate(480,384) " class="colors">
+		<circle cx="16" cy="16" r="12" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<line x1="8" y1="17" x2="17" y2="25" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="24" y1="17" x2="15" y2="25" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="8" y1="9" x2="16" y2="17" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="24" y1="9" x2="15" y2="17" style="stroke:var(--icon-contrast);stroke-width:3" />
+	</g>
+
+<!--  -->
+	<!-- circlesmall-plus 32x32-->
+	<g id="circlesmall-plus" transform="translate(0,416) " class="colors">
+		<line x1="12" y1="16" x2="20" y2="16" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="16" y1="12" x2="16" y2="20" style="stroke:var(--icon-color);stroke-width:2" />
+
+		<line x1="10" y1="10" x2="22" y2="10" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="10" x2="10" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="22" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="22" y1="10" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+	<!-- circlesmall-minus 32x32-->
+	<g id="circlesmall-minus" transform="translate(32,416) " class="colors">
+		<line x1="12" y1="16" x2="20" y2="16" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="10" x2="22" y2="10" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="10" x2="10" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="22" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="22" y1="10" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+	<!-- circlesmall-close 32x32-->
+	<g id="circlesmall-close" transform="translate(64,416) " class="colors">
+		<line x1="12" y1="20" x2="20" y2="12" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="12" y1="12" x2="20" y2="20" style="stroke:var(--icon-color);stroke-width:2" />
+	
+		<line x1="10" y1="10" x2="22" y2="10" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="10" x2="10" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="10" y1="22" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="22" y1="10" x2="22" y2="22" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+	<!-- squaresmall-plus 32x32-->
+	<g id="squaresmall-plus" transform="translate(96,416) " class="colors">
+		<rect x="8" y="8" width="16" height="16" fill="var(--icon-color)"/>
+		<line x1="12" y1="16" x2="20" y2="16" style="stroke:var(--icon-contrast);stroke-width:2" />
+		<line x1="16" y1="12" x2="16" y2="20" style="stroke:var(--icon-contrast);stroke-width:2" />		
+	</g>
+	<!-- squaresmall-minus 32x32-->
+	<g id="squaresmall-minus" transform="translate(128,416) " class="colors">
+		<rect x="8" y="8" width="16" height="16" fill="var(--icon-color)"/>
+		<line x1="12" y1="16" x2="20" y2="16" style="stroke:var(--icon-contrast);stroke-width:2" />
+	</g>
+	<!-- squaresmall-close 32x32-->
+	<g id="squaresmall-close" transform="translate(160,416) " class="colors">
+		<rect x="8" y="8" width="16" height="16" fill="var(--icon-color)"/>
+		<line x1="12" y1="20" x2="20" y2="12" style="stroke:var(--icon-contrast);stroke-width:2" />
+		<line x1="12" y1="12" x2="20" y2="20" style="stroke:var(--icon-contrast);stroke-width:2" />
+	</g>
+	<!-- check-contrast 32x32-->
+	<g id="check-contrast" transform="translate(192,416) " class="colors">
+		<line x1="8" y1="18" x2="16" y2="26" style="stroke:var(--icon-contrast);stroke-width:4" />
+		<line x1="14" y1="26" x2="26" y2="8" style="stroke:var(--icon-contrast);stroke-width:4" />
+	</g>
+	<!-- close-contrast 32x32-->
+	<g id="close-contrast" transform="translate(224,416) " class="colors">
+		<line x1="6" y1="26" x2="26" y2="6" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="6" y1="6" x2="26" y2="26" style="stroke:var(--icon-contrast);stroke-width:3" />
+	</g>
+
+	<!-- menu 32x32-->
+	<g id="menu-contrast" transform="translate(256,416) " class="colors">
+		<line x1="8" y1="8" x2="24" y2="8" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="8" y1="16" x2="24" y2="16" style="stroke:var(--icon-contrast);stroke-width:3" />
+		<line x1="8" y1="24" x2="24" y2="24" style="stroke:var(--icon-contrast);stroke-width:3" />
+	</g>
+	<!-- menu-dot 32x32-->
+	<g id="menu-dot-contrast" transform="translate(288,416) " class="colors">
+		<rect x="12" y="6"  rx="2" ry="2" width="8" height="4" fill="var(--icon-contrast)" />	
+		<rect x="12" y="14" rx="2" ry="2" width="8" height="4" fill="var(--icon-contrast)" />	
+		<rect x="12" y="22" rx="2" ry="2" width="8" height="4" fill="var(--icon-contrast)" />	
+		
+	</g>
+	
+<!--  -->	
+	<!-- grip-dotted-vertical 32x32-->
+	<g id="grip-dotted-vertical" transform="translate(0,448) " class="colors">
+		<line x1="14" y1="8" x2="14" y2="24" style="stroke:var(--icon-color);stroke-width:3" stroke-dasharray="2,2"/>
+		<line x1="18" y1="8" x2="18" y2="24" style="stroke:var(--icon-color);stroke-width:3" stroke-dasharray="2,2"/>
+	</g>	
+	<!-- grip-dotted-horizontal 32x32-->
+	<g id="grip-dotted-horizontal" transform="translate(32,448) " class="colors">
+		<line x1="8" y1="14" x2="24" y2="14" style="stroke:var(--icon-color);stroke-width:3" stroke-dasharray="2,2" />
+		<line x1="8" y1="18" x2="24" y2="18" style="stroke:var(--icon-color);stroke-width:3" stroke-dasharray="2,2" />
+	</g>	
+	<!-- grip-solid-vertical 32x32-->
+	<g id="grip-solid-vertical" transform="translate(64,448) " class="colors">
+		<line x1="14" y1="8" x2="14" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="18" y1="8" x2="18" y2="24" style="stroke:var(--icon-color);stroke-width:3" />
+
+	</g>	
+	<!-- grip-solid-horizontal 32x32-->
+	<g id="grip-solid-horizontal" transform="translate(96,448) " class="colors">
+		<line x1="8" y1="14" x2="24" y2="14" style="stroke:var(--icon-color);stroke-width:3" />
+		<line x1="8" y1="18" x2="24" y2="18" style="stroke:var(--icon-color);stroke-width:3" />
+	</g>
+	<!-- gripsmall-diagonal-se 32x32-->
+	<g id="gripsmall-diagonal-se" transform="translate(128,448) " class="colors">
+		<line x1="12" y1="20" x2="22" y2="10" style="stroke:var(--icon-color);stroke-width:2" stroke-dasharray="2,1"/>
+		<line x1="16" y1="20" x2="22" y2="14" style="stroke:var(--icon-color);stroke-width:2" stroke-dasharray="2,1"/>
+		<line x1="20" y1="20" x2="22" y2="18" style="stroke:var(--icon-color);stroke-width:2" stroke-dasharray="2,1"/>
+	</g>
+	<!-- grip-diagonal-se 32x32-->
+	<g id="grip-diagonal-se" transform="translate(160,448) " class="colors">
+		<line x1="8" y1="24" x2="24" y2="8" style="stroke:var(--icon-color);stroke-width:2" stroke-dasharray="2,1"/>
+		<line x1="14" y1="24" x2="24" y2="14" style="stroke:var(--icon-color);stroke-width:2" stroke-dasharray="2,1"/>
+		<line x1="20" y1="24" x2="24" y2="20" style="stroke:var(--icon-color);stroke-width:2" stroke-dasharray="2,1"/>
+	</g>
+	
+	<!-- grip-diagonal-solid-se 32x32-->
+	<g id="gripsmall-diagonal-solid-se" transform="translate(192,448) " class="colors">
+		<line x1="12" y1="20" x2="22" y2="10" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="16" y1="20" x2="22" y2="14" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="20" y1="20" x2="22" y2="18" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+	<!-- grip-diagonal-solid-se 32x32-->
+	<g id="grip-diagonal-solid-se" transform="translate(224,448) " class="colors">
+		<line x1="8" y1="24" x2="24" y2="8" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="14" y1="24" x2="24" y2="14" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="20" y1="24" x2="24" y2="20" style="stroke:var(--icon-color);stroke-width:2" />
+	</g>
+
+	<!-- eye 32x32-->	
+	<g id="eye" transform="translate(256,448) " class="colors">
+		<path transform="translate(4,9.5) scale(0.75,0.75)" fill="var(--icon-color)" 
+		d="M16,5.0000076C18,5.0000076 19.699951,6.5999979 19.699951,8.7000045 19.699951,10.80001 18,12.30001 16,12.30001 14,12.30001 12.299988,10.700004 12.299988,8.5999984 12.299988,6.5000071 14,5.0000076 16,5.0000076z M16,3.2000045C12.899963,3.2000045 10.5,5.7000045 10.5,8.7000045 10.5,11.80001 13,14.200004 16,14.200004 19.099976,14.200004 21.5,11.700004 21.5,8.7000045 21.5,5.5999984 19.099976,3.2000045 16,3.2000045z M16,0C24.799988,5.2225687E-08 32,8.7000045 32,8.7000045 32,8.7000045 24.799988,17.400001 16,17.400001 7.1999512,17.400001 0,8.7000045 0,8.7000045 0,8.7000045 7.1999512,5.2225687E-08 16,0z" />
+	
+	</g>
+
+	<!-- phone 32x32-->	
+	<g id="phone" transform="translate(288,448) " class="colors">
+		<path transform="translate(4,4) scale(0.75,0.75)  " fill="var(--icon-color)" 
+		d="M27.126948,20.391966C27.726983,20.391966,28.32598,20.591979,28.725941,21.091979L31.324931,23.689965C32.224953,24.589959,32.224953,25.989951,31.324931,26.888966L31.324931,26.988972 28.925953,29.387955 23.027966,23.490962 25.426943,21.091979 25.52698,20.991973C25.926941,20.591979,26.526976,20.391966,27.126948,20.391966z M1.2370937,4.4979788L7.2350568,10.495986C5.8350376,14.293984 7.9350661,17.592959 11.133052,20.79196 14.332014,23.989953 17.631012,26.088948 21.428973,24.689965L27.426936,30.687941C21.529009,33.885934 14.132003,30.587966 7.7350549,24.189965 1.3370688,17.792971 -1.9609533,10.39598 1.2370937,4.4979788z M6.7350587,0C7.3350319,-2.4408905E-08,7.9350661,0.20001187,8.3340515,0.70001106L10.93304,3.2990063C11.833001,4.1979915,11.833001,5.5979835,10.93304,6.4969994L10.833004,6.5969745 8.5340628,9.0959946 2.5370766,3.0989939 5.0360293,0.70001106 5.0360293,0.60000514C5.5350508,0.20001187,6.135024,-2.4408905E-08,6.7350587,0z" />
+	
+	</g>
+
+	<!-- microphone 32x32-->	
+	<g id="microphone" transform="translate(320,448) " class="colors">
+		<path transform="translate(8,4) scale(0.75,0.75)" fill="var(--icon-color)" 
+		d="M0,15.1L2.7000022,15.1 2.7000022,16C2.7000022,20.400001 6.2000053,23.900001 10.600009,23.900001 15.000013,23.900001 18.500016,20.400001 18.500016,16L18.500016,15.2 21.200018,15.2 21.200018,16C21.200018,21.400001,17.100015,25.900001,11.80001,26.500001L11.80001,30.500001 13.600012,30.500001 13.600012,32.000001 7.7000069,32.000001 7.7000069,30.500001 9.2000079,30.500001 9.2000079,26.400001C4.0000033,25.8,0,21.400001,0,16z M10.600009,0C13.000011,0,14.900013,1.9000001,14.900013,4.3000004L14.900013,16.6C14.900013,19 13.000011,20.900001 10.600009,20.900001 8.2000071,20.900001 6.3000054,19 6.3000052,16.6L6.3000052,4.3000004C6.3000054,1.9000001,8.2000071,0,10.600009,0z" />
+	
+	</g>
+	<!-- headphone 32x32-->	
+	<g id="headphone" transform="translate(352,448) " class="colors">
+		<path transform="translate(4,8) scale(0.75,0.75)" fill="var(--icon-color)" 
+		d="M28.889999,20.665009L28.889999,20.764999 29.090004,20.665009 28.990005,20.665009z
+		M16.150002,0
+		C23.874001,0,30.094002,6.0190125,30.495003,13.542007
+		L30.495003,13.643005
+		C31.398003,14.345001 32,15.549011 32,16.853012 32,18.35701 31.297005,19.661011 30.194,20.263
+		L30.094002,20.263
+		L26.482002,22.972 26.382004,22.972
+		C25.078003,22.871002,23.973999,21.868011,23.973999,20.464005
+		L23.973999,13.041
+		C23.973999,11.636002 25.078003,10.533005 26.482002,10.533005 26.884003,10.533005 27.285004,10.633011 27.686005,10.834 25.479004,6.2190094 21.065002,3.0090027 15.949001,3.0090027 10.532001,3.0090027 5.9180031,6.6210022 3.9120026,11.737
+		L3.9120026,11.837006 4.012001,		11.636002
+		C4.413002,11.235001 5.1160011,10.934006 5.8180008,10.934006 7.2220001,10.934006 8.3260002,12.03801 8.3260002,13.442001
+		L8.3260002,20.865005
+		C8.3260002,22.270004 7.2220001,23.373001 5.8180008,23.373001 4.5140038,23.373001 3.4100037,22.37001 3.3100014,20.966003
+		L3.3100014,	20.865005 3.2100029,20.865005
+		C1.4040031,20.764999 0,19.060013 0,16.953003 0,15.447998 0.80200195,14.144012 1.9050026,13.442001L2.0060005,13.442001 2.0060005,13.141006
+		C2.507,5.8180084,8.7270012,0,16.150002,0z" />
+	
+	</g>
+
+	<!-- headset 32x32-->	
+	<g id="headset" transform="translate(384,448) " class="colors">
+		<path transform="translate(4,4) scale(0.75,0.75)" fill="var(--icon-color)" 
+		d="M28.889999,20.665009L28.889999,20.764999 29.090004,20.665009 28.990005,20.665009z
+		M16.150002,0C23.874001,0,30.094002,6.0190125,30.495003,13.542007L30.495003,13.643005C31.398003,14.345001 32,15.549011 32,16.853012 32,18.35701 31.297005,19.661011 30.194,20.263L30.094002,20.263C29.592003,21.969009,27.183998,27.887009,19.159,29.292007L19.059002,29.292007 19.059002,29.391998C18.758003,30.897003 17.454002,32 15.949001,32 14.144001,32 12.739002,30.596008 12.739002,28.790009 12.739002,26.984009 14.144001,25.580002 15.949001,25.580002 17.253002,25.580002 18.357002,26.281998 18.858002,27.386002L18.959003,27.486008C19.962002,27.285004,23.874001,26.182007,26.382004,23.072006L26.482002,22.972 26.382004,22.972C25.078003,22.871002,23.973999,21.868011,23.973999,20.464005L23.973999,13.041C23.973999,11.636002 25.078003,10.533005 26.482002,10.533005 26.884003,10.533005 27.285004,10.633011 27.686005,10.834 25.479004,6.2190094 21.065002,3.0090027 15.949001,3.0090027 10.532001,3.0090027 5.9180031,6.6210022 3.9120026,11.737L3.9120026,11.837006 4.012001,11.636002C4.413002,11.235001 5.1160011,10.934006 5.8180008,10.934006 7.2220001,10.934006 8.3260002,12.03801 8.3260002,13.442001L8.3260002,20.865005C8.3260002,22.270004 7.2220001,23.373001 5.8180008,23.373001 4.5140038,23.373001 3.4100037,22.37001 3.3100014,20.966003L3.3100014,20.865005 3.2100029,20.865005C1.4040031,20.764999 0,19.060013 0,16.953003 0,15.447998 0.80200195,14.144012 1.9050026,13.442001L2.0060005,13.442001 2.0060005,13.141006C2.507,5.8180084,8.7270012,0,16.150002,0z" />
+	
+	</g>
+	<!-- paperclip 32x32-->	
+	<g id="paperclip" transform="translate(416,448) " class="colors">
+		<path transform="translate(4,5) scale(0.75,0.75)" fill="var(--icon-color)" 
+		d="M25.941322,2.2737368E-13C27.558311,-4.0886727E-07 29.078315,0.63000435 30.221309,1.7740014 32.582309,4.1360003 32.582309,7.9800016 30.221309,10.341001L26.654197,13.911185 26.647779,13.918285 13.781886,26.795045C12.257898,28.321017 10.228915,29.162002 8.0719329,29.162002 5.9149508,29.162002 3.8859677,28.321017 2.36098,26.795045 -0.7869935,23.643104 -0.7869935,18.5172 2.36098,15.366257L15.226874,2.4894964C15.617871,2.0995032 16.250865,2.0995032 16.640862,2.4894964 17.031859,2.8794888 17.031859,3.512477 16.640862,3.9034702L3.7749686,16.780231C1.4069881,19.151187 1.4069881,23.010116 3.7749686,25.381072 4.923959,26.530049 6.4489464,27.162038 8.0719329,27.162038 9.593483,27.162038 11.028901,26.60658 12.148299,25.590419L12.364417,25.384391 12.367482,25.381 23.431394,14.30823 25.233791,12.504311 25.234594,12.503587 28.807321,8.9279996C30.388299,7.3449994 30.388299,4.7710024 28.807321,3.188003 28.042314,2.4210044 27.023342,1.9999992 25.941322,1.9999994 24.858387,1.9999992 23.840391,2.4210044 23.074407,3.188003L19.518825,6.746451 19.500844,6.7663413 8.0649686,18.211112C7.2719772,19.004096 7.2719772,20.296071 8.0649686,21.089055 8.8319602,21.858039 10.171946,21.858039 10.938937,21.089055L23.090806,8.9282981C23.480802,8.5383064 24.113794,8.5383064 24.504791,8.9282981 24.895786,9.3182908 24.895786,9.9512779 24.504791,10.34227L12.353922,22.503026C11.59193,23.266011 10.578941,23.685002 9.5019531,23.685002 8.4249647,23.685002 7.4119756,23.266011 6.6499841,22.503026 5.1271254,20.979213 5.0795361,18.529142 6.5072159,16.947438L6.6218815,16.826726 6.6495207,16.796003 21.66042,1.7740014C22.803352,0.63000435,24.323356,-4.0886727E-07,25.941322,2.2737368E-13z" />
+	</g>
+	<!-- gauge 32x32-->	
+	<g id="gauge" transform="translate(448,448) " class="colors">
+		<circle cx="16" cy="16" r="13" stroke="var(--icon-color)" stroke-width="3" fill="var(--icon-color)"/>
+		<path stroke="var(--icon-contrast)" fill="var(--icon-color)" stroke-width="3" d=" M 6 16 A 10 10 0 0 1 26 16" />
+		<circle cx="16" cy="20" r="2" stroke="var(--icon-contrast)" stroke-width="3" fill="var(--icon-contrast)"/>
+		<line x1="16" y1="20" x2="12" y2="11" style="stroke:var(--icon-contrast);stroke-width:2" />
+	</g>
+
+	<!-- graph 32x32-->	
+	<g id="graph" transform="translate(480,448) " class="colors">
+		<line x1="4" y1="4" x2="4" y2="29" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="4" y1="28" x2="28" y2="28" style="stroke:var(--icon-color);stroke-width:2" />
+		<line x1="6" y1="24" x2="14" y2="18" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="13" y1="18" x2="22" y2="24" style="stroke:var(--icon-color);stroke-width:4" />
+		<line x1="21" y1="24" x2="26" y2="10" style="stroke:var(--icon-color);stroke-width:4" />
+		<polygon  points="24,9 28,12 28,7" style="fill:var(--icon-color);" />
+	</g>
+	
+	
+</svg>
