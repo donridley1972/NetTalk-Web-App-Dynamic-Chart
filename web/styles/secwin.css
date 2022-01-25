@@ -1,0 +1,79 @@
+.sw-icon-16{
+background: url(/styles/images/swIcons16.png) no-repeat!important;
+width:16px!important;
+height:16px!important;
+vertical-align: middle!important;   
+position: relative;
+background-position: -64px -64px!important;
+top: -2px;
+}
+
+.sw-access{
+background-position: -0px -0px!important;
+}
+
+.sw-noaccess{
+background-position: -0px -16px!important;
+}
+         
+.sw-group-yes{
+background-position: -0px -32px!important;
+}
+
+.sw-group-no{
+background-position: -0px -48px!important;
+}
+
+.sw-default-all{
+background-position: -16px -16px!important;
+}
+
+.sw-default-none{
+background-position: -16px -32px!important;
+}
+        
+.sw-group{
+background-position: -16px -0px!important;
+}
+
+.sw-administrator{
+background-position: -16px -48px!important;
+}
+
+.sw-sysadmin{
+background-position: -32px -48px!important;
+}   
+
+.sw-supervisor{
+background-position: -32px -0px!important;
+}
+
+.sw-operator{
+background-position: -32px -16px!important;
+}
+
+.sw-guest{
+background-position: -32px -32px!important;
+}
+
+.sw-check{
+background-position: -48px -0px!important;
+}
+
+.sw-nocheck{
+background-position: -48px -16px!important;
+}
+
+.sw-contract{
+background-position: -48px -32px!important;
+}
+
+.sw-expand{
+background-position: -48px -48px!important;
+}
+
+.sw-group-header-row{
+color:white;
+background-color:#4594b6;    
+font-weight: bold;
+}
